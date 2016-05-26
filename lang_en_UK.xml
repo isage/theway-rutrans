@@ -1,0 +1,2801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE strings
+  SYSTEM "theway.dtd">
+<strings>
+   <string key="c_demo_1" value="A way leading through an alien planet" comment=""/>
+   <string key="c_demo_2" value="A way full of dangers" comment="Aktywator"/>
+   <string key="c_demo_3" value="A way you don't have to travel alone" comment="Cel w dół"/>
+   <string key="c_demo_4" value="A way full of exploration and puzzles"
+           comment="Cel w lewo"/>
+   <string key="c_demo_5" value="It's the only way to bring her back"
+           comment="Cel w prawo"/>
+   <string key="c_demo_6" value="The Way" comment="Cel w górę"/>
+   <string key="c_demo_7" value="End of the Demo" comment="Audio"/>
+   <string key="g_Access" value="Access" comment="Akcja"/>
+   <string key="g_aimDown" value="Aim Down" comment="Anuluj/Wyjdź"/>
+   <string key="g_aimLeft" value="Aim Left" comment="Wybór broni"/>
+   <string key="g_aimRight" value="Aim Right" comment="Kucanie/W dół"/>
+   <string key="g_aimUp" value="Aim Up" comment="Dziennik"/>
+   <string key="g_Audio" value="Audio" comment="Skok"/>
+   <string key="g_Back" value="Back" comment="Idź w lewo"/>
+   <string key="g_bindAction" value="Action" comment="Idź w prawo"/>
+   <string key="g_bindBack" value="Cancel/Exit" comment="Bieg"/>
+   <string key="g_bindChange" value="Next Weapon" comment="Strzał"/>
+   <string key="g_bindDown" value="Crouch/Down" comment="W górę"/>
+   <string key="g_bindJournal" value="Journal" comment="Przycisk"/>
+   <string key="g_bindJump" value="Jump" comment="Anuluj"/>
+   <string key="g_bindLeft" value="Walk Left" comment="Akceptuj"/>
+   <string key="g_bindRight" value="Walk Right" comment="Zebrano 1/7 Wspomnień"/>
+   <string key="g_bindRun" value="Run" comment="Zebrano 2/7 Wspomnień"/>
+   <string key="g_bindShoot" value="Shoot" comment="Zebrano 3/7 Wspomnień"/>
+   <string key="g_bindUp" value="Go Up" comment="Zebrano 4/7 Wspomnień"/>
+   <string key="g_button" value="Button" comment="Zebrano 5/7 Wspomnień"/>
+   <string key="g_Cancel" value="Cancel" comment="Zebrano 6/7 Wspomnień"/>
+   <string key="g_Choose" value="Confirm" comment="Zebrano 7/7 Wspomnień"/>
+   <string key="g_collected_memory_1" value="Collected 1/7 Memories" comment="Terminal"/>
+   <string key="g_collected_memory_2" value="Collected 2/7 Memories" comment="Kontynuuj"/>
+   <string key="g_collected_memory_3" value="Collected 3/7 Memories" comment="Kontroler"/>
+   <string key="g_collected_memory_4" value="Collected 4/7 Memories" comment="Sterowanie"/>
+   <string key="g_collected_memory_5" value="Collected 5/7 Memories"
+           comment="Kryształ Danych"/>
+   <string key="g_collected_memory_6" value="Collected 6/7 Memories"
+           comment="Ciąg dalszy nastąpi..."/>
+   <string key="g_collected_memory_7" value="Collected 7/7 Memories" comment="Dokument"/>
+   <string key="g_console" value="Console" comment="English"/>
+   <string key="g_Continue" value="Continue" comment="Symbol Wieczności"/>
+   <string key="g_Controller" value="Controller" comment="Wyjście"/>
+   <string key="g_Controls" value="Controls" comment="UKOŃCZONO:"/>
+   <string key="g_crystal" value="Data crystal" comment="Pełny ekran"/>
+   <string key="g_demo" value="To be continued..." comment="Grafika"/>
+   <string key="g_document" value="Document" comment="Zadania:"/>
+   <string key="g_English" value="English" comment="Klawiatura"/>
+   <string key="g_eternal" value="Symbol of Eternity" comment="Język"/>
+   <string key="g_Exit" value="Exit" comment="Pistolet Laserowy"/>
+   <string key="g_FinishedEntry" value="COMPLETED:" comment="Ładowanie..."/>
+   <string key="g_Fullscreen" value="Fullscreen" comment="Ładowanie..."/>
+   <string key="g_Gfx" value="Display" comment="Muzyka"/>
+   <string key="g_Journal" value="Objectives:" comment="NOWE:"/>
+   <string key="g_Keyboard" value="Keyboard" comment="Notatka"/>
+   <string key="g_Language" value="Language" comment="Wył."/>
+   <string key="g_Laser" value="Laser Pistol" comment="Zastosuj"/>
+   <string key="g_load" value="Loading..." comment="Wł."/>
+   <string key="g_Loading" value="Loading..." comment="Uff..."/>
+   <string key="g_Music" value="Music" comment="Nie powstrzymasz mnie!"/>
+   <string key="g_NewEntry" value="NEW:" comment="Szczęśliwy traf"/>
+   <string key="g_note" value="Note" comment="Albo ty albo ja"/>
+   <string key="g_off" value="Off" comment="Nie dziś!"/>
+   <string key="g_Ok" value="Apply" comment="Co tam, Tincan?"/>
+   <string key="g_on" value="On" comment="O co chodzi Tin?"/>
+   <string key="g_onkill_1" value="Phew..." comment="Chcesz mi pomóc?"/>
+   <string key="g_onkill_2" value="You won't stop me!" comment="Co tam masz, Tincan?"/>
+   <string key="g_onkill_3" value="Lucky hit" comment="Zaczekaj na mnie, Tin"/>
+   <string key="g_onkill_4" value="It's you or me" comment="Opcje"/>
+   <string key="g_onkill_5" value="Not today!" comment="Kontroler"/>
+   <string key="g_ontincan_1" value="What's up, Tincan?" comment="Panel"/>
+   <string key="g_ontincan_2" value="What is it, boy?" comment="Pauza"/>
+   <string key="g_ontincan_3" value="Do you want to help me?" comment="[WCIŚNIJ PRZYCISK]"/>
+   <string key="g_ontincan_4" value="What did you find, Tincan?" comment="(WYJŚCIE)"/>
+   <string key="g_ontincan_5" value="Wait for me, Tincan" comment="Polski"/>
+   <string key="g_Options" value="Options" comment="Rozdzielcz."/>
+   <string key="g_Pad" value="Gamepad" comment="Okruch życia..."/>
+   <string key="g_panel" value="Panel" comment="Wciśnij '[ACTION]' aby spróbować ponownie"/>
+   <string key="g_Pause" value="Pause" comment="Wybierz"/>
+   <string key="g_pc_default" value="[AWAITING INPUT]" comment="Ustawienia"/>
+   <string key="g_pc_exit" value="(EXIT)" comment="Dźwięki"/>
+   <string key="g_Polish" value="Polski" comment="Tarcza"/>
+   <string key="g_Resolution" value="Resolution" comment="Ulepszenie Kuli"/>
+   <string key="g_retro" value="Memory remains..." comment="Nowa Gra"/>
+   <string key="g_Retry" value="Press '[ACTION]' to retry." comment="Przełącznik"/>
+   <string key="g_Select" value="Select" comment="Monitor"/>
+   <string key="g_Settings" value="Settings" comment="Symbol"/>
+   <string key="g_Sfx" value="SFX" comment="Wezmę to ze sobą"/>
+   <string key="g_Shield" value="Shield" comment="Telekineza"/>
+   <string key="g_sphere" value="Sphere upgrade" comment="Teleportacja"/>
+   <string key="g_Start" value="New Game" comment="Tincan"/>
+   <string key="g_switch" value="Switch" comment="Zawołaj Tincan'a"/>
+   <string key="g_SwitchScreen" value="Monitor" comment="Nic się nie dzieje..."/>
+   <string key="g_symbol" value="Symbol" comment="Tłumaczenie#_-_-_-_-_-_-_-_-_-_-_-"/>
+   <string key="g_taken" value="I'll take it with me." comment="Zawór"/>
+   <string key="g_Telekinesis" value="Telekinesis" comment="Zrestartuj"/>
+   <string key="g_Teleport" value="Teleportation"
+           comment="Zrestartuj aplikację aby zastosować zmiany"/>
+   <string key="g_tincan" value="Tincan" comment="Hologram DandA"/>
+   <string key="g_tincan_help" value="Call Tincan"
+           comment="Znajdź sposób na pozbycie się łowcy nagród."/>
+   <string key="g_tincan_danger" value="Tincan got scared off..." comment=""/>
+   <string key="g_toofar" value="Nothing happens..."
+           comment="Użyj ładunków wybuchowych aby zniszczyć kolumnę"/>
+   <string key="g_translating" value="Translating#_-_-_-_-_-_-_-_-_-_-_-"
+           comment="Znajdź i wyłącz Wschodni Generator"/>
+   <string key="g_valve" value="Valve" comment="Znajdź i wyłącz Zachodni Generator"/>
+   <string key="g_restart_title" value="Restart"
+           comment="Znajdź i wyłącz Południowy Generator"/>
+   <string key="g_restart_content" value="Restart the game to apply language changes"
+           comment="Odkryj Ukryte Miasto"/>
+   <string key="g_hologram" value="Hologram DandA"
+           comment="Znajdź sposób na zdobycie zaufania tubylców"/>
+   <string key="q_13_main" value="Find a way to get rid of the bounty hunter."
+           comment="Uruchom przepływ wody aby zdobyć zaufanie tubylców"/>
+   <string key="q_13_second" value="Use explosives to destroy the column."
+           comment="Dotrzyj do Piramidy Wieczności"/>
+   <string key="q_13b_generator_1" value="Find and turn off the East Generator"
+           comment="Kop dalej..."/>
+   <string key="q_13b_generator_2" value="Find and turn off the West Generator"
+           comment="Uwolnij Obcych"/>
+   <string key="q_13b_generator_3" value="Find and turn off the South Generator"
+           comment="Przejdź przez zabezpieczenia głównego komputera"/>
+   <string key="q_13b_generators" value="Reveal the Hidden City"
+           comment="Pokonaj Opiekuna"/>
+   <string key="q_14_trust" value="Find a way to gain the villagers trust"
+           comment="Naładuj akumulatory statku"/>
+   <string key="q_14_water" value="Restore water flow to gain the villagers trust"
+           comment="Wystartuj..."/>
+   <string key="q_17_pyramid" value="Get to the Pyramid of Life"
+           comment="Otwórz główny właz"/>
+   <string key="q_19_dig" value="Dig further..." comment="Załatw pozwolenie na start"/>
+   <string key="q_19_help" value="Free the aliens" comment="Przyjedź autem pod statek"/>
+   <string key="q_19_help_1" value="Bypass the mainframe's security system"
+           comment="Przygotuj statek na wylot"/>
+   <string key="q_19_help_2" value="Defeat the protector"
+           comment="Włam się do budynku ochrony"/>
+   <string key="q_4_acc" value="Charge the ship's accumulators"
+           comment="Otwórz właz awaryjny do hangaru"/>
+   <string key="q_4_final" value="Lift off..." comment="Znajdź statek kosmiczny"/>
+   <string key="q_4_part1" value="Open the departure gate."
+           comment="Ukradnij statek kosmiczny z firmy"/>
+   <string key="q_4_part2" value="Get permission to lift off." comment="Znajdź broń"/>
+   <string key="q_4_part3" value="Bring your van to the spaceship."
+           comment="Wejdź do Świątyni Życia"/>
+   <string key="q_4_prepare" value="Prepare the spaceship for departure."
+           comment="Dojdź do opuszczonej stacji badawczej"/>
+   <string key="q_4_security1" value="Break into the security building."
+           comment="Znajdź ukryte przejście"/>
+   <string key="q_4_security2" value="Open the spaceship hangar's emergency entrance."
+           comment="Użyj trójkątnego artefaktu"/>
+   <string key="q_4_security3" value="Find the spaceship."
+           comment="Znajdź trójkątny artefakt"/>
+   <string key="q_4_steal" value="Steal a spaceship from your company."
+           comment="Zdobądź więcej danych nt. Życia Wiecznego"/>
+   <string key="q_4_weapon" value="Find a gun."
+           comment="Zdobądź 3 kryształy z ukrytych świątyń"/>
+   <string key="q_6_entrance" value="Enter the temple of life"
+           comment="Zdobądź kryształ 'Bariery Umysłu'"/>
+   <string key="q_6_entrance_1" value="Go to the abandoned research station"
+           comment="Zdobądź kryształ 'Siły Umysłu'"/>
+   <string key="q_6_entrance_2" value="Find the hidden entrance"
+           comment="Zdobądź kryształ 'Podróży Umysłu'"/>
+   <string key="q_6b_artifact" value="Use the triangular artefact"
+           comment="Włóż ciało do kapsuły"/>
+   <string key="q_7_artifact" value="Find big triangular artefact"
+           comment="Zbierz wszystkie notatki"/>
+   <string key="q_8_swamp" value="Get more data on eternal life"
+           comment="Odłącz i weź kapsułę"/>
+   <string key="q_9_village" value="Collect 3 crystals from the hidden temples"
+           comment="Już mówiłem, nie możemy jej pomóc..."/>
+   <string key="q_9_village_1" value="Collect the 'Mind Barrier' crystal"
+           comment="Wiem, że jesteś wściekły, ale..."/>
+   <string key="q_9_village_2" value="Collect the 'Mind Force' crystal"
+           comment="Może spróbuj spędzić z nią te ostatnie chwile..."/>
+   <string key="q_9_village_3" value="Collect the 'Mind Travel' crystal" comment="Plakat"/>
+   <string key="q_test1" value="Put the body into the capsule." comment="Witaj, Tom"/>
+   <string key="q_test2" value="Collect all of your notes." comment="DandA podaj status"/>
+   <string key="q_test3" value="Disconnect and take the capsule."
+           comment="Statek nie jest gotowy do wylotu"/>
+   <string key="r_hospital2_russ_1" value="I told you already there's nothing we can do"
+           comment="Statek gotowy na wylot"/>
+   <string key="r_hospital2_russ_2" value="I know you're angry, but..."
+           comment="Jakiś nadprogramowy lot?"/>
+   <string key="r_hospital2_russ_3"
+           value="Maybe just try to spend those last moments with her"
+           comment="DandA...Włącz tryb minimalnej komunikacji..."/>
+   <string key="c_hologram_poster" value="Poster" comment="Zrozumiano"/>
+   <string key="c_hologram_1" value="Hello, Tom"
+           comment="Dziękuje za lot i życzę Miłego dnia"/>
+   <string key="c_hologram_2" value="DandA, ship status" comment="Dzzzzzię"/>
+   <string key="c_hologram_3" value="The ship is not ready to fly" comment="dniadniadnia"/>
+   <string key="c_hologram_4" value="The ship is ready to fly" comment="Miłego-go-go"/>
+   <string key="c_hologram_5" value="Are we going on an unplanned mission?"
+           comment="DandA wyłącz się"/>
+   <string key="c_hologram_6" value="DandA...Switch to minimal communication mode..."
+           comment="Przekaz? Nie powinno tu nikogo być..."/>
+   <string key="c_hologram_7" value="Affirmative" comment="Przeskanujmy okolicę..."/>
+   <string key="c_hologram_8" value="Thank you for the flight. Have a nice day"
+           comment="Proszę, proszę, proszę. Major Tom"/>
+   <string key="c_hologram_9" value="Thhhhhhha"
+           comment="Ładny kradziony statek i ładna nagroda za twoją głowę!"/>
+   <string key="c_hologram_10" value="daydaydaydayday" comment="Oho..."/>
+   <string key="c_hologram_11" value="Nice-ce-ce" comment="Hałas coś zwabił..."/>
+   <string key="c_hologram_12" value="DandA, shutdown"
+           comment="Znowu! Mam już dosyć potworów!"/>
+   <string key="c_bounty_1" value="A transmission? No one should even be here..."
+           comment="Co teraz?"/>
+   <string key="c_bounty_2" value="Let's scan the area..."
+           comment="Nie podoba mi się to..."/>
+   <string key="c_bounty_3" value="...Well, well, well. Major Tom."
+           comment="To znów ta niebieska energia..."/>
+   <string key="c_bounty_4" value="Nice stolen ship, and a nice bounty on your head!"
+           comment="To powinno włączyć wieżyczkę"/>
+   <string key="c_chaos1" value="Uh-uh..." comment="Tincan!"/>
+   <string key="c_chaos2" value="The noise lured something in"
+           comment="Będzie dobrze...Obiecuję..."/>
+   <string key="c_chaos3" value="Not again! I've had enough monsters!"
+           comment="Poleż tutaj i odpocznij..."/>
+   <string key="c_wall1" value="What now?" comment="Wrócę po ciebie..."/>
+   <string key="c_wall2" value="I don't like the look of it..."
+           comment="Tincan! Kazałem ci zostać!"/>
+   <string key="c_wall3" value="That blue energy again..." comment="Tincan?"/>
+   <string key="c_wall4" value="This should turn on the turret" comment="Tincan!"/>
+   <string key="c_wall5" value="Tincan!" comment="Tincan..."/>
+   <string key="c_wall6" value="It will be ok...I promise..."
+           comment="Zebrałem dane, o które prosiłeś"/>
+   <string key="c_wall7" value="Just stay here and rest..."
+           comment="Obcy przenosili swoją świadomość do komputerów"/>
+   <string key="c_wall8" value="I'll be back for you"
+           comment="W ten sposób osiągnęli nieśmiertelność"/>
+   <string key="c_tincan_1" value="Tincan! I told you to stay!"
+           comment="Szkoda...Miałem nadzieję na coś więcej..."/>
+   <string key="c_tincan_2" value="Tincan?" comment="Dobrze się spisałeś Coby"/>
+   <string key="c_tincan_3" value="Tincan!"
+           comment="Możesz kucać trzymając '[DOWN]'.#Czołgaj się używając '[LEFT]' or '[RIGHT]' podczas kucania."/>
+   <string key="c_tincan_4" value="Tincan..."
+           comment="Widząc strzałkę wciśnij odpowiednio '[UP]' lub '[DOWN]' aby wykonać akcję"/>
+   <string key="c_fox_1" value="I've collected the data you asked for"
+           comment="Wciśnij '[JOURNAL]' aby wyświetlić dziennik zadań"/>
+   <string key="c_fox_2" value="The aliens transferred their consciousness to computers"
+           comment="Możesz zeskakiwać z drabinek wciskając '[JUMP]'"/>
+   <string key="c_fox_3" value="This way they achieved eternal life "
+           comment="Wciśnij '[RIGHT]' lub '[LEFT]' aby chodzić"/>
+   <string key="c_fox_4" value="Pity...I expected more than that"
+           comment="Biegaj trzymając '[RUN]' podczas chodzenia.#Możesz skakać wciskając '[JUMP]'"/>
+   <string key="c_fox_5" value="You did well"
+           comment="Wciśnij '[ACTION]' aby wejść w interakcję z podświetlonym obiektem"/>
+   <string key="tutorial_crawl"
+           value="You can crouch by holding '[DOWN]'.#You can crawl using '[LEFT]' or '[RIGHT]' while crouching."
+           comment="Przytrzymaj '[CHANGE]' aby zmienić tryb kuli"/>
+   <string key="tutorial_elevator"
+           value="Arrows mean you can press '[UP]' or '[DOWN]' respectively to interact"
+           comment="Poruszanie"/>
+   <string key="tutorial_journal"
+           value="Press '[JOURNAL]' to view your current objectives"
+           comment="Muszę zanieść ją do domu..."/>
+   <string key="tutorial_ladder" value="You can jump off ladders by pressing '[JUMP]'"
+           comment="Grób..."/>
+   <string key="tutorial_move" value="Press '[RIGHT]' or '[LEFT]' to walk"
+           comment="Jej grób"/>
+   <string key="tutorial_runjump"
+           value="You can run by holding '[RUN]' while walking.#You can jump by pressing '[JUMP]'"
+           comment="Firmowy blok mieszkaniowy"/>
+   <string key="tutorial_use" value="Press '[ACTION]' to interact with objects"
+           comment="Niebezpieczna alejka..."/>
+   <string key="tutorial_swap" value="Hold '[CHANGE]' to change the sphere's mode"
+           comment="Brudno jak zawsze..."/>
+   <string key="1_MoveTitle" value="Movement" comment="Winda"/>
+   <string key="1_back" value="I need to bring her home..." comment="Firmowa ciężarówka"/>
+   <string key="1_g1" value="Grave..." comment="Ciągle pada..."/>
+   <string key="1_gh" value="Her Grave" comment="Opuszczona planeta"/>
+   <string key="2_block" value="Company owned housing block" comment="Czyjeś mieszkanie"/>
+   <string key="2_alley" value="Dangerous alley..." comment="Nasze...Moje mieszkanie..."/>
+   <string key="2_dirty" value="Dirty as always..." comment="Łóżko bez niej..."/>
+   <string key="2_el" value="Lift"
+           comment="Możesz się wspinać po drabinach i schodach używając '[UP]'.#Schodzisz używając '[DOWN]'."/>
+   <string key="2_truck" value="Company lorry" comment="Wspinaczka"/>
+   <string key="3_rain" value="Still raining..."
+           comment="Możesz kucać trzymając '[DOWN]'.#Czołgaj się używając '[LEFT]' or '[RIGHT]' podczas kucania."/>
+   <string key="3_aba" value="Abandoned planet" comment="Mapa do Świątyni Życia"/>
+   <string key="3_ap" value="Someone's flat" comment="Jej portret..."/>
+   <string key="3_ap2" value="Our...my flat..." comment="Życie wieczne"/>
+   <string key="3_bed" value="Bed without her..." comment="Plan lotu kosmicznego"/>
+   <string key="3_ClimbContent"
+           value="You can climb stairs and ladders using '[UP]'.#You can climb down using '[DOWN]'."
+           comment="Jesteśmy gotowi..."/>
+   <string key="3_ClimbTitle" value="Climbing" comment="Kapsuła"/>
+   <string key="3_Crawl"
+           value="You can crouch by holding '[DOWN]'.#You can crawl using '[LEFT]' or '[RIGHT]' while crouching."
+           comment="Ładująca się kapsuła"/>
+   <string key="3_dis" value="Map to the Temple of Life" comment="Naładowana kapsuła"/>
+   <string key="3_draw" value="Her portrait..." comment="Wszystko będzie dobrze..."/>
+   <string key="3_ete" value="Eternal life" comment="Tanie jedzenie na wynos..."/>
+   <string key="3_fli" value="Plan of the space flight" comment="Wyjście"/>
+   <string key="3_go" value="We're ready to go"
+           comment="Do: Major Tom#Od: EXPEDITORIUM##Drogi Tom#Przyjmij nasze szczere kondolencje z powodu tragicznej śmierci twojej żony (i naszego pracownika). Pokryjemy koszty pogrzebu.##Szczere Kondolencje,#EXPEDITORIUM AI"/>
+   <string key="3_inc" value="Capsule" comment="Plan kradzieży statku"/>
+   <string key="3_incCh" value="Capsule - charging..." comment="Notatki"/>
+   <string key="3_incCh2" value="Capsule - ready to go" comment="My..."/>
+   <string key="3_inyou" value="It will be ok..." comment="Miejsce lądowania"/>
+   <string key="3_kit" value="Cheap take-out food..." comment="Ukryta Świątynia Życia?"/>
+   <string key="3_leave" value="Exit"
+           comment="Biegaj trzymając '[RUN]' podczas chodzenia.#Możesz skakać wciskając '[JUMP]'"/>
+   <string key="3_mail"
+           value="To: Major Tom#From: EXPEDITORIUM##Dear Tom#Accept our sincere condolences for the tragic death of your wife (and our employee). We will cover the funeral expenses.##Sincere condolences#EXPEDITORIUM AI"
+           comment="Transfer dusz"/>
+   <string key="3_map" value="Plan of stealing the spaceship" comment="Szafka 1"/>
+   <string key="3_note" value="Notes"
+           comment="Kody dostępu##Ur-quantum: AY#Entergift: 8E#Lex: MU#O-Wing: AY#Anxiety: P1# Babel 5: 5T#Dwarf: 0W"/>
+   <string key="3_photo" value="Us..." comment="Szafka 2"/>
+   <string key="3_photo2" value="Landing spot"
+           comment="Kody dostępu##Ur-quantum: P1#Entergift: 5T#Lex: 8E#O-Wing: 5H#Anxiety: 5T# Babel 5: MU#Dwarf: 5H"/>
+   <string key="3_photo3" value="Hidden Temple of Life?" comment="Szafka 3"/>
+   <string key="3_Run"
+           value="You can run by holding '[RUN]' while walking.#You can jump by pressing '[JUMP]'."
+           comment="Kody dostępu##Ur-quantum: 5T#Entergift: 5H#Lex: 0W#O-Wing: 5T#Anxiety: 5T# Babel 5: MU#Dwarf: 5T"/>
+   <string key="3_sou" value="Soul transfer" comment="Szafka 4"/>
+   <string key="4_arch1" value="Cabinet 1"
+           comment="Kody dostępu##Ur-quantum: MU#Entergift: 0W#Lex: AY#O-Wing: 8E#Anxiety: 5H# Babel 5: P1#Dwarf: 8E"/>
+   <string key="4_arch1_content"
+           value="Access codes##Ur-quantum: AY#Entergift: 8E#Lex: MU#O-Wing: AY#Anxiety: P1# Babel 5: 5T#Dwarf: 0W"
+           comment="Stażyści! Przypominamy, że kody dostępu dla wszystkich typów statków można znaleźć w archiwach!#Kod startowy: Szafka 1#Kod radiowy: Szafka 2#Kod operacyjny: Szafka 3#Kod bazowy: Szafka 4"/>
+   <string key="4_arch2" value="Cabinet 2" comment="Bateria"/>
+   <string key="4_arch2_content"
+           value="Access codes##Ur-quantum: P1#Entergift: 5T#Lex: 8E#O-Wing: 5H#Anxiety: 5T# Babel 5: MU#Dwarf: 5H"
+           comment="Włączyłem"/>
+   <string key="4_arch3" value="Cabinet 3" comment="Nieaktywne..."/>
+   <string key="4_arch3_content"
+           value="Access codes##Ur-quantum: 5T#Entergift: 5H#Lex: 0W#O-Wing: 5T#Anxiety: 5T# Babel 5: MU#Dwarf: 5T"
+           comment="Szafka na akta"/>
+   <string key="4_arch4" value="Cabinet 4" comment="Statek nie jest gotowy na lot"/>
+   <string key="4_arch4_content"
+           value="Access codes##Ur-quantum: MU#Entergift: 0W#Lex: AY#O-Wing: 8E#Anxiety: 5H# Babel 5: P1#Dwarf: 8E"
+           comment="Akumulatory statku nienaładowane.#Naładować?"/>
+   <string key="4_arch_note"
+           value="Interns! We remind you that the access codes for all the ship types can be found in the archives!#Lift off code: Cabinet 1#Radio code: Cabinet 2#Operational code: Cabinet 3#Base code: Cabinet 4"
+           comment="BŁĄD! Poziomy energii w powierzchniowych kondensatorach nie są wyrównane.#Proszę powiadomić pomoc techniczną aby wyrównali energię za pomocą zdalnej baterii."/>
+   <string key="4_battery" value="Battery"
+           comment="Obecne poziomy energii w powierzchniowych kondensatorach:#Kondensator 1: "/>
+   <string key="4_buttonActivated" value="It's turned on now" comment="#Kondensator 2: "/>
+   <string key="4_buttonInactive" value="It's inactive" comment="#Kondensator 3: "/>
+   <string key="4_cabinet" value="Filing cabinet" comment="Akumulatory naładowane."/>
+   <string key="4_cantfly" value="Ship is not ready to fly" comment="Ładuj"/>
+   <string key="4_chargeConsole_c1" value="Ship accumulators not charged.#Charge?"
+           comment="Wyświetl Stan"/>
+   <string key="4_chargeConsole_c2"
+           value="ERROR! Energy levels in surface capacitors are not equal.#Please contact the tech support so they can balance the energy using the remote battery."
+           comment="Ładowanie"/>
+   <string key="4_chargeConsole_c31"
+           value="Current energy in surface capacitors:#Capacitor 1: "
+           comment="Teraz wydaje się w porządku..."/>
+   <string key="4_chargeConsole_c32" value="#Capacitor 2: "
+           comment="USTERKA! SPALONY BEZPIECZNIK!##Proszę skontaktować się z pomocą techniczną w celu ustalenia terminu wymiany bezpiecznika."/>
+   <string key="4_chargeConsole_c33" value="#Capacitor 3: " comment="Stan dźwigu: "/>
+   <string key="4_chargeConsole_c4" value="Accumulators charged."
+           comment="Stan łańcucha: "/>
+   <string key="4_chargeConsole_o1" value="Charge" comment="Winda towarowa: "/>
+   <string key="4_chargeConsole_o2" value="Display state" comment="Dźwig"/>
+   <string key="4_chargeConsole_title" value="Charging" comment="Łańcuch"/>
+   <string key="4_correct" value="Seems correct now" comment="Winda"/>
+   <string key="4_craneConsole_c1"
+           value="MALFUNCTION! BROKEN FUSE! MALFUNCTION!##Please contact the tech support in order to arrange a fuse replacement."
+           comment="W DOLE#"/>
+   <string key="4_craneConsole_c21" value="Crane state: " comment="W GÓRZE#"/>
+   <string key="4_craneConsole_c22" value="Chain state: " comment="NIE AKTYWNA#"/>
+   <string key="4_craneConsole_c23" value="Cargo elevator: " comment="AKTYWNA#"/>
+   <string key="4_craneConsole_o1" value="Crane" comment="Dźwig"/>
+   <string key="4_craneConsole_o2" value="Chain" comment="Na dół"/>
+   <string key="4_craneConsole_o3" value="Lift" comment="Do kontroli lotów"/>
+   <string key="4_craneConsole_s1" value="DOWN#"
+           comment="Najpierw muszę oczyścić drogę..."/>
+   <string key="4_craneConsole_s2" value="UP#" comment="Zarządzanie: "/>
+   <string key="4_craneConsole_s3" value="NOT ACTIVE#"
+           comment="UWAGA!!! Awaryjne rozładowanie może uszkodzić pobliskie roboty! Proszę upewnić się, że korytarz między konsolą a generatorami jest pusty przed rozładowaniem!"/>
+   <string key="4_craneConsole_s4" value="ACTIVE#" comment="Zmagazynowana energia: "/>
+   <string key="4_craneConsole_title" value="Crane"
+           comment="Brak powodu do rozładowania. Energia nie przekracza 100%"/>
+   <string key="4_door_d" value="Down" comment="ROZPOCZĘTO ROZŁADOWANIE"/>
+   <string key="4_door_u" value="To the traffic control tower" comment="Pokaż poziomy"/>
+   <string key="4_drone_inway" value="I must clear the path first"
+           comment="Zmień zarządzanie"/>
+   <string key="4_energyConsole_c11" value="Generator maintenance: " comment="Rozładuj"/>
+   <string key="4_energyConsole_c12"
+           value="WARNING!!! Emergency discharge can damage nearby robots! Please make sure that the corridor between this console and generators is empty before discharging!"
+           comment="AUTO#"/>
+   <string key="4_energyConsole_c2" value="Amount of collected energy: " comment="RĘCZNE#"/>
+   <string key="4_energyConsole_c3"
+           value="No reason for emergency discharge. Energy level is not over 100%"
+           comment="Generatory"/>
+   <string key="4_energyConsole_c4" value="DISCHARGE INITIATED" comment="Usmażone kable"/>
+   <string key="4_energyConsole_o1" value="Show levels" comment="Kable elektryczne"/>
+   <string key="4_energyConsole_o2" value="Change maintenance"
+           comment="Mam nadzieję, że byli ubezpieczeni..."/>
+   <string key="4_energyConsole_o3" value="Discharge" comment="Usmażony wiatrak"/>
+   <string key="4_energyConsole_s1" value="AUTOMATIC#" comment="Wiatrak wentylacyjny"/>
+   <string key="4_energyConsole_s2" value="MANUAL#"
+           comment="Ochrona nie będzie już problemem"/>
+   <string key="4_energyConsole_title" value="Generators" comment="Wystartuj..."/>
+   <string key="4_energyPipe_fried" value="Fried cables" comment="Spalony bezpiecznik"/>
+   <string key="4_energyPipe" value="Power cables" comment="Nowy bezpiecznik"/>
+   <string key="4_secured" value="I hope they were insured..."
+           comment="Dystrybutor części zamiennych.#Co chcesz pozyskać?"/>
+   <string key="4_fan_fried" value="Fried fan" comment="Typ gniazda"/>
+   <string key="4_fan" value="Vent fan" comment="Model"/>
+   <string key="4_finally" value="Security won't be a problem now" comment="CZĘŚĆ WYDANO"/>
+   <string key="4_flyaway" value="Take off..." comment="Bateria"/>
+   <string key="4_fuse" value="Broken fuse" comment="Tranzystor"/>
+   <string key="4_fuse2" value="Fixed fuse" comment="Bezpiecznik"/>
+   <string key="4_fuseConsole_c1"
+           value="Spare parts distributor.#What do you want to retrieve?"
+           comment="Eliptyczny"/>
+   <string key="4_fuseConsole_c2" value="Enter the input shape" comment="Kwadratowy"/>
+   <string key="4_fuseConsole_c3" value="Enter the color code" comment="Trójkątny"/>
+   <string key="4_fuseConsole_c4" value="PRODUCT DELIVERED" comment="Czerwony"/>
+   <string key="4_fuseConsole_o11" value="Battery" comment="Żółty"/>
+   <string key="4_fuseConsole_o12" value="Transistor" comment="Niebieski"/>
+   <string key="4_fuseConsole_o13" value="Fuse" comment="Magazyn"/>
+   <string key="4_fuseConsole_o21" value="Elliptic" comment="Nie mogę wjechać dalej"/>
+   <string key="4_fuseConsole_o22" value="Square" comment="Dolny-lewy generator"/>
+   <string key="4_fuseConsole_o23" value="Triangular" comment="Dolny-prawy generator"/>
+   <string key="4_fuseConsole_o31" value="Red" comment="Górny-lewy generator"/>
+   <string key="4_fuseConsole_o32" value="Yellow" comment="Górny-prawy generator"/>
+   <string key="4_fuseConsole_o33" value="Blue" comment="Właz awaryjny"/>
+   <string key="4_fuseConsole_title" value="Warehouse" comment="Interkom"/>
+   <string key="4_gate_locked" value="I can't drive any further"
+           comment="Nie chcę alarmować straży..."/>
+   <string key="4_genDL" value="Lower-left generator" comment="Bateria"/>
+   <string key="4_genDR" value="Lower-right generator" comment="Tranzystor"/>
+   <string key="4_genUL" value="Upper-left generator" comment="Bezpiecznik"/>
+   <string key="4_genUR" value="Upper-right generator"
+           comment="Znalazłeś broń! Celuj używając [AIM] i strzelaj za pomocą '[SHOOT]'.#Strzelanie zużywa energię. Pozostała energia wyświetla się pod ikoną broni.#Energia regeneruje się po chwili bezczynności."/>
+   <string key="4_hatch" value="Emergency hatch" comment="Pistolet laserowy"/>
+   <string key="4_intercom" value="Intercom" comment="Szafka ochrony"/>
+   <string key="4_intercom_comment" value="I don't want to alert the security..."
+           comment="Logo firmy"/>
+   <string key="4_item_1" value="Battery" comment="Mapa"/>
+   <string key="4_item_2" value="Transistor" comment="Ładowanie akumulatora"/>
+   <string key="4_item_3" value="Fuse" comment="Archiwa"/>
+   <string key="4_laser_content"
+           value="You found a gun! You can now aim using [AIM] and shoot by '[SHOOT]'.#Shooting costs energy. The remaining energy is shown under the weapon icon.#Energy regenerates after few seconds of not using the weapon."
+           comment="Baterie kondensatorów"/>
+   <string key="4_laser_title" value="Laser Pistol" comment="Kondensatory"/>
+   <string key="4_locker" value="Security locker" comment="Obsługa dźwigu"/>
+   <string key="4_logo" value="Company logo" comment="Winda towarowa"/>
+   <string key="4_map" value="Map" comment="Zarządzanie energią"/>
+   <string key="4_map_acu" value="Accumulator charging"
+           comment="Zarządzanie włazem głównym"/>
+   <string key="4_map_arc" value="Archives" comment="Generatory"/>
+   <string key="4_map_bat" value="Capacitor batteries" comment="Budynek ochrony"/>
+   <string key="4_map_con" value="Capacitors" comment="Statek"/>
+   <string key="4_map_cra" value="Crane controls" comment="Nadzorca statku"/>
+   <string key="4_map_ele" value="Cargo elevator" comment="Kontrola lotu"/>
+   <string key="4_map_ene" value="Energy management" comment="Skład broni"/>
+   <string key="4_map_gat" value="Main hatch control" comment="Serwer broni"/>
+   <string key="4_map_gen" value="Generators" comment="Magazyn"/>
+   <string key="4_map_sec" value="Security building" comment="Nie mam bezpiecznika"/>
+   <string key="4_map_shi" value="Ship" comment="Brak autoryzacji..."/>
+   <string key="4_map_sup" value="Ship supervisor"
+           comment="Nowe hasło do serwera autoryzacyjnego broni dla pracowników:##xkcd123##Daj znać szefowi ochrony jak wróci z wakacji"/>
+   <string key="4_map_tow" value="Traffic control"
+           comment="Hej Scotty. Bezpiecznik znowu zdechł. Pamiętaj aby wziąć nowy z magazynu.#Ten co wygląda jak cytrynka."/>
+   <string key="4_map_weap" value="Weapon storage"
+           comment="Jednostka Chłodząca#Generatorów"/>
+   <string key="4_map_weaps" value="Weapon server" comment="Nasza stara drużyna..."/>
+   <string key="4_map_wear" value="Storage room" comment="Zapamiętałem hasło"/>
+   <string key="4_noFuse" value="I don't have a fuse" comment="Wymieniłem bezpiecznik"/>
+   <string key="4_not_authorized" value="Not authorized"
+           comment="Wezmę to zamiast tego ostatniego"/>
+   <string key="4_note_pass"
+           value="New password for the weapon authorization server:##xkcd123##Let the security manager know when he comes back from holiday"
+           comment="Do ochrony"/>
+   <string key="4_note_scott"
+           value="Hey Scotty. The fuse died again. Remember to take a new one from the storage room.#The one that looks like a lemon."
+           comment="Serwer danych"/>
+   <string key="4_notice" value="Generator#Cooling Unit"
+           comment="Stan statku i procedury startowe.#Co chcesz zobaczyć?"/>
+   <string key="4_photo" value="Our old team..."
+           comment="Nazwa: RED#Typ: DWARF#Akumulatory: "/>
+   <string key="4_remembered" value="I remembered the password"
+           comment="Pozwolenie na start: "/>
+   <string key="4_repaired" value="I replaced the fuse" comment="Właz główny: "/>
+   <string key="4_replaced" value="I'll take this instead of the last one"
+           comment="Stan statku"/>
+   <string key="4_sec" value="To security" comment="Procedura startowa"/>
+   <string key="4_servers" value="Data server" comment="NIE NAŁADOWANY#"/>
+   <string key="4_shipConsole_c1"
+           value="Spacecraft status and launch procedures.#What do you want to display?"
+           comment="NAŁADOWANY#"/>
+   <string key="4_shipConsole_c2" value="Name: RED#Type: DWARF#Accumulators: "
+           comment="BRAK#"/>
+   <string key="4_shipConsole_c31" value="Permission to lift off: " comment="POPRAWNY#"/>
+   <string key="4_shipConsole_c32" value="Departure gate: " comment="ZAMKNIĘTY#"/>
+   <string key="4_shipConsole_o1" value="Spacecraft status" comment="OTWARTY#"/>
+   <string key="4_shipConsole_o2" value="Procedure state" comment="Statek"/>
+   <string key="4_shipConsole_s1" value="NOT CHARGED#" comment="Otwarcie awaryjne"/>
+   <string key="4_shipConsole_s2" value="CHARGED#" comment="To powinno oczyścić drogę!"/>
+   <string key="4_shipConsole_s3" value="MISSING#" comment="Pozwolenie na start: #"/>
+   <string key="4_shipConsole_s4" value="VALID#" comment="#BŁĘDNY KOD"/>
+   <string key="4_shipConsole_s5" value="CLOSED#" comment="#Podaj kod bazowy"/>
+   <string key="4_shipConsole_s6" value="OPEN#" comment="#Podaj kod operacyjny"/>
+   <string key="4_shipConsole_title" value="Spacecraft" comment="#Podaj kod radiowy"/>
+   <string key="4_shipGate" value="Emergency hatch" comment="#Podaj kod startowy"/>
+   <string key="4_shocking" value="That should clear the way!" comment="Podaj kod"/>
+   <string key="4_towerConsole_c1" value="Clearance for lift off: #" comment="0W"/>
+   <string key="4_towerConsole_c2" value="#CODE INVALID" comment="5H"/>
+   <string key="4_towerConsole_c31" value="#Enter base code" comment="5T"/>
+   <string key="4_towerConsole_c32" value="#Enter operational code" comment="AY"/>
+   <string key="4_towerConsole_c33" value="#Enter radio code" comment="8E"/>
+   <string key="4_towerConsole_c34" value="#Enter lift off code" comment="P1"/>
+   <string key="4_towerConsole_o1" value="Enter code" comment="MU"/>
+   <string key="4_towerConsole_o21" value="0W" comment="Oczekuję na kody dostępu..."/>
+   <string key="4_towerConsole_o22" value="5H" comment="PRZYDZIELONO"/>
+   <string key="4_towerConsole_o23" value="5T" comment="Kontrola lotu"/>
+   <string key="4_towerConsole_o24" value="AY" comment="Wywietrznik"/>
+   <string key="4_towerConsole_o25" value="8E" comment="Konserwacja#Dostęp do wentylacji:"/>
+   <string key="4_towerConsole_o26" value="P1" comment="Dostęp do generatorów: "/>
+   <string key="4_towerConsole_o27" value="MU"
+           comment="#UWAGA! Ze względu na obecny regulamin tylko jedna lokacja może być otwarta na raz!"/>
+   <string key="4_towerConsole_s1" value="Awaiting access codes..."
+           comment="Otwórz wentylację"/>
+   <string key="4_towerConsole_s2" value="GRANTED" comment="Otwórz generatory"/>
+   <string key="4_towerConsole_title" value="Traffic control" comment="ZAMKNIĘTE#"/>
+   <string key="4_vent" value="Vent hatch" comment="OTWARTE#"/>
+   <string key="4_ventConsole_c11" value="Maintenance system#Air duct access: "
+           comment="Konserwacja"/>
+   <string key="4_ventConsole_c12" value="Generators access: " comment="Zamknięte"/>
+   <string key="4_ventConsole_c13"
+           value="#WARNING! Due to the current regulations only one location can be opened at once!"
+           comment="Pistolety laserowe"/>
+   <string key="4_ventConsole_o1" value="Unlock air ducts"
+           comment="System autoryzacji broni laserowej – dostęp awaryjny"/>
+   <string key="4_ventConsole_o2" value="Unlock generators" comment="WPROWADŹ HASŁO"/>
+   <string key="4_ventConsole_s1" value="LOCKED#" comment="BŁĘDNE HASŁO"/>
+   <string key="4_ventConsole_s2" value="UNLOCKED#" comment="DODANO UŻYTKOWNIKA"/>
+   <string key="4_ventConsole_title" value="Maintenance" comment="Dodaj Użytkownika"/>
+   <string key="4_ventLocked" value="It's closed" comment="Wprowadź 'password'"/>
+   <string key="4_weapon" value="Laser pistols" comment="Wprowadź 'XKCD123'"/>
+   <string key="4_weaponConsole_c1"
+           value="Laser weapon authorization system - emergency access."
+           comment="Uprawnienia"/>
+   <string key="4_weaponConsole_c2" value="ENTER PASSWORD"
+           comment="Ten co mam nie pasuje..."/>
+   <string key="4_weaponConsole_c3" value="PASSWORD INVALID"
+           comment="Dostęp do hangaru zablokowany."/>
+   <string key="4_weaponConsole_c4" value="USER ADDED" comment="[CZEKAM NA POLECENIE]"/>
+   <string key="4_weaponConsole_o1" value="Add user" comment="Wyłącz"/>
+   <string key="4_weaponConsole_o2" value="Enter 'password'" comment="Ochrona"/>
+   <string key="4_weaponConsole_o2a" value="Enter 'XKCD123'"
+           comment="Ciii...Słodkich snów..."/>
+   <string key="4_weaponConsole_title" value="Permissions" comment="Zablokowana winda"/>
+   <string key="4_wrongFuse" value="This fuse doesn't fit" comment="Winda"/>
+   <string key="5_computer_execute" value="Main gate and spaceship hangar access locked."
+           comment="Śpiący strażnik"/>
+   <string key="5_computer_idle" value="[AWAITING INPUT]" comment="Komputer ochrony"/>
+   <string key="5_computer_option" value="Turn off"
+           comment="Używaj '[MENUUP]' i '[MENUDOWN]' do wyboru opcji w komputerze. '[CHOOSE]' wybiera zaznaczoną opcję.#Możesz wyjść za pomocą '[CANCEL]'.#Możesz też używać do tego myszy."/>
+   <string key="5_computer_title" value="Security" comment="Komputery"/>
+   <string key="5_dreams" value="Hush...Only dreams now..."
+           comment="Możesz wskakiwać na niektóre powierzchnie nawet jeśli nie blokują twojego ruchu. (np. pudła na wyższym piętrze).#Aby zeskoczyć z nich wciśnij [JUMP] kucając."/>
+   <string key="5_ele" value="Blocked lift" comment="Platformy"/>
+   <string key="5_ele2" value="Lift" comment="Na zewnątrz"/>
+   <string key="5_guard" value="Sleeping guard" comment="Moja stara stacja badawcza"/>
+   <string key="5_hConsole" value="Security console" comment="Zniszczony reflektor"/>
+   <string key="5_howtopc_content"
+           value="When accessing the computer you can use '[MENUUP]' and '[MENUDOWN]' to select options and '[CHOOSE]' to choose them.#You can exit by pressing '[CANCEL]'.#You can also use your mouse for this."
+           comment="Talerz satelitarny"/>
+   <string key="5_howtopc_title" value="Computers" comment="Symbol Wieczności"/>
+   <string key="5_oneway_content"
+           value="You can jump onto some surfaces even if they don't block your movement directly. (e.g. the boxes one level above).#To jump off them press [JUMP] while crouching."
+           comment="Nieodkryte przejście?"/>
+   <string key="5_oneway_title" value="Platforms" comment="Trójkątne wgłębienie"/>
+   <string key="5_out" value="Outside"
+           comment="Nigdy nie odkryliśmy znaczenia tego symbolu"/>
+   <string key="6_abandoned" value="My old research station"
+           comment="Wygląda jak wielka brama, ale..."/>
+   <string key="6_broken_reflector" value="Broken reflector"
+           comment="Skanery pokazywały za nią tylko litą skałę"/>
+   <string key="6_dish" value="Satellite dish"
+           comment="Nie mogę uwierzyć, że wróciłem tutaj sam..."/>
+   <string key="6_eternal" value="Eternal Life Symbol"
+           comment="Planeta jest w większości pustynna"/>
+   <string key="6_hidden" value="Undiscovered passage?"
+           comment="Tylko to miejsce jest obfite w życie"/>
+   <string key="6_hole" value="Triangular cavity" comment="Ale jest też niebezpieczne"/>
+   <string key="6_symbolfirst" value="We never found out the meaning of this"
+           comment="Powinienem być ostrożny idąc do świątyni"/>
+   <string key="6_gate_speech_1" value="It looks like a big gateway, but..."
+           comment="Zobaczmy czy moja teoria się sprawdzi..."/>
+   <string key="6_gate_speech_2" value="Scanners said there's only solid rock behind..."
+           comment="Cóż to?"/>
+   <string key="6_arrival_speech_1" value="I can't believe I'm back here all by myself"
+           comment="Tak! Świątynia Życia istnieje naprawdę!"/>
+   <string key="6_arrival_speech_2" value="The planet is mostly a big desert"
+           comment="RAPORT 2/3#Zapiski (tłumaczone przez Tom'a) sugerują, że istnieje świątynia życia ukryta za kamienną ścianą poniżej naszego obozu. Teoretycznie powinna 'pokazać nam drogę' do sekretu 'wiecznego życia'. Zamówiliśmy sprzęt do głębokiego skanowania aby to sprawdzić."/>
+   <string key="6_arrival_speech_3" value="Only this spot is lush with life"
+           comment="RAPORT 3/3#Skanery nic nie znalazły. To lita skała po całej głębokości. Tom nalega na dalsze badania, ale sztuczna inteligencja już zaklasyfikowała obcą rasę jako BUT (Brak Użytecznej Technologii)."/>
+   <string key="6_arrival_speech_4" value="But it's dangerous as well"
+           comment="DNA 1/2#Tak jak podejrzewaliśmy, wszystkie formy życia na planecie oparte są na DNA. Jednakże, mają one bardzo uporządkowany kod genetyczny, który szybko dostosowuje się do nowych warunków (nawet lepiej od naszych modyfikacji na Ziemi!). Pobierzemy więcej próbek jutro."/>
+   <string key="6_arrival_speech_5" value="I'd better be careful on my way to the temple"
+           comment="RAPORT 1/3#Tom przetłumaczył część obcych znaków. To chyba zapiski religijne bo wspominają często o 'życiu wiecznym'. Tom pracuje bez wytchnienia jak nigdy wcześniej – jak widać nie powinniśmy byli się martwić, że jego małżeństwo będzie przeszkadzać w naszej misji!"/>
+   <string key="6_theory" value="Let's see if my theory is correct..."
+           comment="DNA 2/2#Dalsze badania nad DNA sugerują że miejscowa flora i fauna była zmodyfikowana genetycznie aby spełniać jakieś konkretne wymogi. Pozostałe znaleziska nie sugerują obcej rasy z poziomem technologicznym pozwalającym na takie modyfikacje. Przypadek?"/>
+   <string key="6_puzzle" value="What's this?" comment="Czegoś tu brakuje..."/>
+   <string key="6_after_puzzle" value="Yes! The Temple of Life is real!"
+           comment="Reflektor"/>
+   <string key="6_hPaperDNA_1"
+           value="PROGRESS 2/3#The writings (translated by Tom) suggest that there is a temple of life hidden behind the stone wall below our camp. Supposedly it should show us the way to the secret of eternal life. We have ordered some deep scanners to confirm this."
+           comment="Puste baraki"/>
+   <string key="6_hPaperDNA_2"
+           value="PROGRESS 3/3#The scanners didn't find anything. It's solid rock all the way through. Tom insists on further research, but the AI already classified the alien race as PEANUT (Primitive, Extinct And No Useful Technology)."
+           comment="Ostateczne rozwiązanie#??? ???. Świątynia#??? ??? wdzięczność.'"/>
+   <string key="6_hPaperWork_1"
+           value="DNA 1/2#As suspected, all lifeforms are based on DNA. However, they have very structured genetic code which quickly adapts to new conditions (better than modifications we have made on Earth). We'll collect more samples tomorrow."
+           comment="??? z gwiazd ???#znajdź rozwiązanie ???#podziel się z twoją rasą.'"/>
+   <string key="6_hPaperWork_2"
+           value="PROGRESS 1/3#Tom translated some of the alien markings. It seems to be some kind of religious writing as it mentions 'eternal life' quite often. Tom is hard at work as never before - we shouldn't have been concerned about his marriage colliding with our mission after all!"
+           comment="??? świątynia poniżej ???#poprowadzi ??? ???. To pierwszy#krok do ??? znaleźć#??? ??? wieczne życie.'"/>
+   <string key="6_hPaperWork_3"
+           value="DNA 2/2#Further DNA studies suggest that the local flora and fauna were genetically modified to meet some specialized needs. Remaining findings did not suggest a race with technology capable of such genetic manipulation. Coincidence?"
+           comment="To jednak JEST brama! Wiedziałem!"/>
+   <string key="6_missing" value="Something is missing here..." comment="Pasuje!"/>
+   <string key="6_reflector" value="Reflector" comment="Technologia laserowa..."/>
+   <string key="6_tent" value="Empty barracks" comment="Niebezpieczna..."/>
+   <string key="6_translation1"
+           value="The final answer#??? ???. Temple#??? ??? gratitude.'"
+           comment="Brr...Zimno!"/>
+   <string key="6_translation2"
+           value="??? from the stars ???#find the solution ???#share with your race.'"
+           comment="Natura bywa NAPRAWDĘ straszna!"/>
+   <string key="6_translation3"
+           value="??? temple below ???#guide ??? ???. It is#the first step ??? find#??? ??? eternal life.'"
+           comment="Ten artefakt..."/>
+   <string key="6_v_knewit" value="So it IS a gateway! I knew it!"
+           comment="Założę się, że pasuje do podestu na zewnątrz!"/>
+   <string key="6_v_open" value="It fits!" comment="Ani drgnie"/>
+   <string key="7_laser_1" value="Laser technology..." comment="Dziwna kolumna"/>
+   <string key="7_laser_2" value="Dangerous too..." comment="Trójkątny Artefakt"/>
+   <string key="7_cold" value="Brr... Cold!" comment="Ma kwadratową dziurę..."/>
+   <string key="7_spider" value="Nature is REALLY scary!" comment="Wydaje się być aktywne"/>
+   <string key="7_artefact_1" value="This artefact..." comment="Pasuje idealnie!"/>
+   <string key="7_artefact_2" value="I bet it fits into the pedestal outside"
+           comment="Natura bywa straszna!"/>
+   <string key="7_budge" value="It won't budge" comment="Kostka"/>
+   <string key="7_column" value="Strange column" comment="Świątynia bariery umysłu"/>
+   <string key="7_cube" value="Triangular Artefact" comment="Świątynia siły umysłu"/>
+   <string key="7_empty" value="It has a cube-shaped hole"
+           comment="Świątynia podróży umysłu"/>
+   <string key="7_filled" value="It seems to be active"
+           comment="Tylko wybrańcy mogą#ożywić swoich bliskich"/>
+   <string key="7_insert" value="The artefact fits perfectly!"
+           comment="Czy potrafisz odbić każdy#problem do jego źródła?"/>
+   <string key="7_nature" value="Damn nature. You scary!"
+           comment="Czy wiesz jak ułożyć#odpowiedź z jej fragmentów?"/>
+   <string key="7_triangle" value="Cube"
+           comment="Czy jesteś we właściwym#miejscu o właściwym czasie?"/>
+   <string key="8_barrier_1a" value="Mind barrier temple"
+           comment="Tylko wybrańcy będą#dzielić się wiecznością"/>
+   <string key="8_force_1a" value="Mind force temple" comment="Świątynia ??? umysłu"/>
+   <string key="8_travel_1a" value="Mind travel temple" comment="Świątynia ??? umysłu"/>
+   <string key="8_resurrect_2a" value="Only the worthy may#resurrect their loved ones"
+           comment="Świątynia ??? umysłu"/>
+   <string key="8_barrier_2a" value="Can you reflect any trouble#back at its source?"
+           comment="??? wybrańcy ??? swoich bliskich"/>
+   <string key="8_force_2a" value="Can you arrange the pieces#to find the answers?"
+           comment="Czy potrafisz ??? jego źródła?"/>
+   <string key="8_travel_2a" value="Can you be at the right#place at the right time?"
+           comment="Czy wiesz ??? z jej fragmentów?"/>
+   <string key="8_resurrect_1a" value="Only the worthy#will share eternity"
+           comment="Czy jesteś ??? właściwym czasie?"/>
+   <string key="8_barrier_1b" value="Mind ??? temple"
+           comment="??? dzielić się wiecznością"/>
+   <string key="8_force_1b" value="Mind ??? temple" comment="System nawadniający?"/>
+   <string key="8_travel_1b" value="Mind ??? temple" comment="Spokojnie!"/>
+   <string key="8_resurrect_2b" value="??? resurrect ??? loved ones" comment="Moja broń!"/>
+   <string key="8_barrier_2b" value="Can you ??? source?"
+           comment="Czekajcie! Nie skrzywdzę was!"/>
+   <string key="8_force_2b" value="Can you ??? answers?" comment="Przestańcie!"/>
+   <string key="8_travel_2b" value="Can you ??? time?" comment="Nie!"/>
+   <string key="8_resurrect_1b" value="??? share eternity" comment="Dajcie spokój!"/>
+   <string key="8_irrigation" value="Irrigation system?" comment="Nie mam złych zamiarów!"/>
+   <string key="8_easy" value="Easy there!" comment="Proszę, nie!"/>
+   <string key="8_gun" value="My gun!" comment="Oho..."/>
+   <string key="8_hurt" value="Wait! I won't hurt you!"
+           comment="Hej! Spokojnie, szczeniaku!"/>
+   <string key="8_stopthrow_1" value="Stop!" comment="Teraz mam wyrzuty sumienia..."/>
+   <string key="8_stopthrow_2" value="Don't!" comment="Hej! Czekajcie!"/>
+   <string key="8_stopthrow_3" value="Oh, come on!" comment="Postać boga?"/>
+   <string key="8_stopthrow_4" value="I mean no harm!" comment="Święta księga?"/>
+   <string key="8_stopthrow_5" value="Please, no!" comment="Au!"/>
+   <string key="8_uhuh" value="Uh-uh..." comment="To puchnie!"/>
+   <string key="8_v_little1" value="Whoa! Easy there, cub" comment="Nie! Proszę!"/>
+   <string key="8_v_little2" value="I feel guilty now..."
+           comment="Muszę znaleźć drogę na około"/>
+   <string key="8_wait" value="Hey! Wait!" comment="Hej Tincan! Grzeczny chłopiec!"/>
+   <string key="8_god" value="God figure?"
+           comment="To miło, że wybudowali dla mnie ten most..."/>
+   <string key="8_book" value="Holy book?"
+           comment="To miejsce nie pokazywało się na skanerach statku..."/>
+   <string key="8_hit" value="Ow!" comment="Chyba mieli świetną technologię maskującą"/>
+   <string key="8_puff" value="It expands!"
+           comment="I pomyśleć, że byliśmy tak blisko tego miejsca..."/>
+   <string key="8_no" value="No! Please!" comment="Komputer obcych"/>
+   <string key="8_around" value="I need to find a way around" comment="Cholera!"/>
+   <string key="8_hitincan" value="Hi Tincan! Good Boy!"
+           comment="To nie brzmiało dobrze..."/>
+   <string key="8_bridge" value="It's nice that they made this bridge for me"
+           comment="Już jest aktywne"/>
+   <string key="8_intro_1" value="This place didn't show up on spaceship scanners"
+           comment="Wydaje się przydatne, ale do czego?"/>
+   <string key="8_intro_2" value="It seems they had advanced cloaking technology"
+           comment="Gruz"/>
+   <string key="8_intro_3" value="To think we were so close to finding this place..."
+           comment="Wow! To było makabryczne!"/>
+   <string key="8b_console" value="Alien console" comment="Co to?"/>
+   <string key="8b_crap" value="Oh crap!" comment="Co do..."/>
+   <string key="8b_nopump" value="It doesn't sound right..."
+           comment="Czy to chce mi pomóc?"/>
+   <string key="8b_nothing" value="It's active already" comment="Jakaś kula?"/>
+   <string key="8b_orbuse" value="Seems useful, but for what?"
+           comment="Duży komputer obcych"/>
+   <string key="8b_rubble" value="Rubble" comment="Odpowiedź jest blisko! Czuję to!"/>
+   <string key="8b_v_kill" value="Woah! That was gruesome..." comment="Umm...No witam?"/>
+   <string key="8b_whatisorb" value="What is this?" comment="gobaRR! Ra"/>
+   <string key="8b_whatthe" value="What the...?"
+           comment="Ta wioska jest wybudowana na ruinach"/>
+   <string key="8b_help" value="Does it try to help me?"
+           comment="Może znajdę tu jakieś odpowiedzi"/>
+   <string key="8b_sphere" value="Some kind of sphere?"
+           comment="Tincan i ja#uwielbiani przez tubylców"/>
+   <string key="9_console" value="Big alien console" comment="Taka piękna..."/>
+   <string key="9_v_answer" value="The answer is near! I can feel it!" comment="Alfabet"/>
+   <string key="9_v_bow" value="Uhm...Hello" comment="Podstawowy słownik"/>
+   <string key="9_v_hello" value="gobaRR! Ra" comment="Zasady gramatyki"/>
+   <string key="9_intro_1" value="This village is built on top of some ruins"
+           comment="Projekt programu#tłumaczącego"/>
+   <string key="9_intro_2" value="Hopefully, I'll find more information here"
+           comment="Zasady działania#programu tłumaczącego"/>
+   <string key="9_friends" value="Tincan and I#adored by locals"
+           comment="Anatomia#oprogramowania obcych"/>
+   <string key="9b_wife" value="So beautiful..." comment="Podest na kryształy"/>
+   <string key="9b_at_1" value="Alphabet" comment="To działa!"/>
+   <string key="9b_at_2" value="Basic dictionary"
+           comment="Hmm, mapa topograficzna ze wskazówkami"/>
+   <string key="9b_at_3" value="Grammar rules"
+           comment="Powinno być łatwo namierzyć z góry"/>
+   <string key="9b_at_4" value="Translation#system design"
+           comment="Skopiuję te dane na swój statek"/>
+   <string key="9b_at_5" value="Translation#system rules"
+           comment="Jeszcze jeden kryształ i powinno działać"/>
+   <string key="9b_at_6" value="Alien software#anatomy"
+           comment="Dalej potrzeba dwóch kryształów"/>
+   <string key="9b_crystals" value="Crystals pedestal"
+           comment="Muszę znaleźć kryształy i je tu przynieść"/>
+   <string key="9b_done" value="It's working!"
+           comment="Program tłumaczeń#gotowy do użycia!"/>
+   <string key="9b_ending1" value="Hmmm, topography map with hints"
+           comment="Tłumaczę 'życie wieczne'#_-_-_-_-_-_-_-_-_-_-_-_-"/>
+   <string key="9b_ending2" value="Should be easy to locate it from above"
+           comment="Aby dostać Dar Wiecznego Życia musisz odnaleźć PIRAMIDĘ WIECZNOŚCI w UKRYTYM MIEŚCIE. Ale najpierw, musisz pokazać, że jesteś tego wart. Mapa do UKRYTEGO MIASTA zapisana jest na trzech kryształach.##Zdobądź je przechodząc trzy próby. Szukaj następujących symboli i obrysuj je swoją kulą. Włóż kryształy do kolumny w tej komnacie aby dostać dalsze instrukcje."/>
+   <string key="9b_ending3" value="I will upload this to my ship"
+           comment="Szczątki obcych"/>
+   <string key="9b_missing1" value="Just one more crystal and it should work"
+           comment="Podróż umysłu sprawi, że#będziesz we właściwym miejscu#o właściwym czasie"/>
+   <string key="9b_missing2" value="I still need two more crystals"
+           comment="Wybierz złe miejsce,#zginiesz marnie"/>
+   <string key="9b_missing3" value="I need to find the crystals and bring them here"
+           comment="Wybierz zły czas,#zginiesz marnie"/>
+   <string key="9b_t1" value="Translation program#completed and ready!" comment="Sześcian"/>
+   <string key="9b_t2" value="Translating 'eternal life'#_-_-_-_-_-_-_-_-_-_-_-_-"
+           comment="Uwięzione i rozjuszone..."/>
+   <string key="9b_translation"
+           value="To receive the Gift of Eternal Life you need to find the Pyramid of Eternity in the hidden city. But first, you have to prove your worth. Map to the hidden city is written into three crystals.##Get them by doing three trials. Look for the following symbols, and trace them with your orb. Put the gathered crystals into the column in this chamber to get further instructions."
+           comment="Wow...Nic nie zostało..."/>
+   <string key="10_remains" value="Alien remains" comment="I. Trwoga"/>
+   <string key="10_wall_1"
+           value="Mind travel will enable#you to be at the right#place at right time"
+           comment="II. Śmierć"/>
+   <string key="10_wall_2" value="If you choose your place#wrong, you will perish"
+           comment="III. Opiekun"/>
+   <string key="10_wall_3" value="If you choose your time#wrong, you will perish"
+           comment="IV. Odparcie"/>
+   <string key="10_steering" value="Cube" comment="V. Zwycięstwo"/>
+   <string key="10_green_speech_1" value="It's trapped and angry..." comment="VI. Nas"/>
+   <string key="10_green_speech_2" value="Woah...Nothing left..."
+           comment="Siła umysłu pozwoli ci#ułożyć odpowiedź#z rozbitych fragmentów"/>
+   <string key="10_icon_1" value="I. Dread" comment="Usuń swoje podłoże,#zginiesz marnie"/>
+   <string key="10_icon_2" value="II. Death" comment="I. Oni"/>
+   <string key="10_icon_3" value="III. Protector" comment="II. Wymiana"/>
+   <string key="10_icon_4" value="IV. Reversal" comment="III. Postęp"/>
+   <string key="10_icon_5" value="V. Victory" comment="IV. Opiekun"/>
+   <string key="10_icon_6" value="VI. Us"
+           comment="Bariera umysłu pozwoli ci#odbić każdy kłopot#z powrotem do źródła"/>
+   <string key="11_wall_1"
+           value="Mind force will enable you#to form correct answer#from scattered pieces"
+           comment="Skieruj barierę nieprawidłowo,#zginiesz marnie"/>
+   <string key="11_wall_2" value="If you remove your#footing, you will perish"
+           comment="Przyj bezmyślnie naprzód,#zginiesz marnie"/>
+   <string key="11_icon_1" value="I. Them" comment="I. Głębia"/>
+   <string key="11_icon_2" value="II. Trade" comment="II. Odkrycie"/>
+   <string key="11_icon_3" value="III. Progress" comment="III. Moc"/>
+   <string key="11_icon_4" value="IV. Protector" comment="IV. Opiekun"/>
+   <string key="12_wall_1"
+           value="Mind barrier lets you#reflect any trouble#back at its source"
+           comment="Obluzowany panel"/>
+   <string key="12_wall_2"
+           value="If you direct the barrier at the#incorrect spot, you will perish"
+           comment="Ta kolumna ledwo utrzymuje wagę statku..."/>
+   <string key="12_wall_3" value="If you push forward#recklessly, you will perish"
+           comment="Nie zostawię żony!"/>
+   <string key="12_icon_1" value="I. Abyss" comment="To powinno rozwiązać problem..."/>
+   <string key="12_icon_2" value="II. Discovery" comment="Cóż..."/>
+   <string key="12_icon_3" value="III. Force"
+           comment="Mój statek dalej może zasilać kapsułę..."/>
+   <string key="12_icon_4" value="IV. Protector" comment="...Ale już nigdy nie poleci"/>
+   <string key="13_tincan_careful" value="Stay out of their field of view!" comment=""/>
+   <string key="13_tincan_far" value="Tincan is too far away..." comment=""/>
+   <string key="13_tincan_need" value="Tincan could lift me up here..." comment=""/>
+   <string key="13_robot_tincan" value="Analysing..." comment=""/>
+   <string key="13_hatch" value="Loose hatch"
+           comment="To znaczy, że muszę ją tu zostawić...Samą..."/>
+   <string key="13_column" value="It barely holds the spaceship's weight..."
+           comment="Na statku miałem jeszcze to do podróży, ale..."/>
+   <string key="13_leave" value="I will not leave my wife!"
+           comment="Znalezienie Ukrytego Miasta zajmie na tym wieczność"/>
+   <string key="13_outro_bomb" value="This should do the trick..." comment="Mimo to..."/>
+   <string key="13_outro_ship_0" value="Well..." comment="Nie poddam się"/>
+   <string key="13_outro_ship_1" value="My ship can still power the capsule"
+           comment="Wrócę po ciebie"/>
+   <string key="13_outro_ship_2" value="But it will never fly again"
+           comment="Moja żona jest bezpieczna...Kosztem życia..."/>
+   <string key="13_outro_ship_3" value="It means I have to leave her here... Alone..."
+           comment="Gniazdo rdzenia zasilającego"/>
+   <string key="13_outro_ship_4" value="I still have this to travel with, but..."
+           comment="Ten model ma potężny rdzeń zasilający"/>
+   <string key="13_outro_ship_5" value="Finding the hidden city will take forever now"
+           comment="Można by go użyć jako materiału wybuchowego"/>
+   <string key="13_outro_ship_6" value="Still..." comment="Skała"/>
+   <string key="13_outro_ship_7" value="I won't give up" comment="Niestabilny rdzeń"/>
+   <string key="13_outro_ship_8" value="I'll be back for you" comment="Niestabilny rdzeń"/>
+   <string key="13_outro_witty" value="My wife is safe now...At a price of life..."
+           comment="Ugh...Co się stało?"/>
+   <string key="13_robot" value="Power core slot" comment="Łowca nagród? Tutaj? Dlaczego?"/>
+   <string key="13_robot_core" value="This model has a large power core inside"
+           comment="Boże! Błagam, nie!"/>
+   <string key="13_robot_core2" value="It could be rigged to explode"
+           comment="Dzięki bogu, nic ci nie jest..."/>
+   <string key="13_rock" value="Rock" comment="Tu nie jest dla niej bezpiecznie..."/>
+   <string key="13_rocket" value="Unstable core" comment="Muszę pozbyć się zagrożenia"/>
+   <string key="13_rocket2" value="Unstable core" comment="Tincan?"/>
+   <string key="13_speech_1" value="Ugh...What happened?" comment="Wszystko w porządku?"/>
+   <string key="13_speech_2" value="Bounty hunter? Here? Why?"
+           comment="Dobrze, załatwmy go!"/>
+   <string key="13_speech_3" value="Oh god, please no!" comment="Wyłączyłem już wszystkie"/>
+   <string key="13_speech_4" value="Thank god, you're fine..."
+           comment="Wybierz cel podróży"/>
+   <string key="13_speech_5" value="It's not safe for her..." comment="Wschodni Generator"/>
+   <string key="13_speech_6" value="I have to get rid of the threat"
+           comment="Zachodni Generator"/>
+   <string key="13_speech_7" value="Tincan?" comment="Południowy Generator"/>
+   <string key="13_speech_8" value="Are you OK?" comment="ScootNav"/>
+   <string key="13_speech_9" value="Good, let's get him!" comment="I?..."/>
+   <string key="13b_afterTravel" value="I already turned them all off"
+           comment="Cokolwiek?..."/>
+   <string key="13b_computer_idle" value="Please select your destination"
+           comment="TAK! Nareszcie!"/>
+   <string key="13b_computer_option_1" value="East Generator"
+           comment="Tajemnice życia czekają na mnie!"/>
+   <string key="13b_computer_option_2" value="West Generator"
+           comment="Jakieś urządzenie maskujące"/>
+   <string key="13b_computer_option_3" value="South Generator"
+           comment="Zasilane przez trzy odległe generatory"/>
+   <string key="13b_computer_title" value="ScootNav"
+           comment="Wygląda na to, że muszę je wyłączyć"/>
+   <string key="13b_ending1" value="And?..." comment="Przynajmniej mam tu ich namiary"/>
+   <string key="13b_ending2" value="Anything?..." comment="Eh... Więcej podróży..."/>
+   <string key="13b_ending3" value="YES! Finally!"
+           comment="Nareszcie... Po tych wszystkich latach..."/>
+   <string key="13b_ending5" value="The answer to life awaits me!"
+           comment="To na pewno właściwe miejsce!"/>
+   <string key="13b_generators_1" value="Some sort of cloaking device" comment="Ale..."/>
+   <string key="13b_generators_2" value="Powered by three remote generators"
+           comment="Gdzie jest Ukryte Miasto?"/>
+   <string key="13b_generators_3" value="It seems I need to turn them off to proceed"
+           comment="Gdzie jest Piramida Wieczności?"/>
+   <string key="13b_generators_4" value="At least I can track their locations from here"
+           comment="Nie czas na podróże!"/>
+   <string key="13b_generators_5" value="*Sigh*...More travel." comment="Jedź..."/>
+   <string key="13b_intro_1" value="At last... After all those years..."
+           comment="Ani drgnie"/>
+   <string key="13b_intro_2" value="I'm sure it's the right place!"
+           comment="Sucha fontanna"/>
+   <string key="13b_intro_3" value="But..." comment="Sprawna fontanna"/>
+   <string key="13b_intro_4" value="Where is the hidden city?"
+           comment="Szczęśliwy...Dzięki mnie..."/>
+   <string key="13b_intro_5" value="Where is the Pyramid of Eternity?"
+           comment="Zachwycony tubylec"/>
+   <string key="13b_noTravel" value="It's no time for travels!"
+           comment="Płaczący ze szczęścia"/>
+   <string key="13b_scooter" value="Travel..." comment="Odprężony tubylec"/>
+   <string key="13b_switch" value="It won't budge" comment="Płaczący tubylec"/>
+   <string key="14_fountain_a" value="Dry fountain" comment="Łkający tubylec"/>
+   <string key="14_fountain_b" value="Working fountain" comment="Drzwi obcych"/>
+   <string key="14_happy_1" value="Happy...Thanks to me..." comment="Martwa roślina"/>
+   <string key="14_happy_2" value="Amused local" comment="Usychająca roślina"/>
+   <string key="14_happy_3" value="Crying with joy" comment="Wejście do generatora"/>
+   <string key="14_happy_4" value="Relaxed local" comment="Zbieracz"/>
+   <string key="14_sad_1" value="Crying local" comment="Zbieracze"/>
+   <string key="14_sad_2" value="Sobbing local" comment="Dary"/>
+   <string key="14_door" value="Alien door" comment="Rury"/>
+   <string key="14_dry" value="Dead plant" comment="Zostań! Nie chcemy ich wystraszyć..."/>
+   <string key="14_drying" value="Withering plant"
+           comment="Muszę zdobyć ich zaufanie aby się tam dostać"/>
+   <string key="14_entrance" value="Generator entrance"
+           comment="Wszystko to tylko aby uruchomić wodę..."/>
+   <string key="14_gatherer" value="Gatherer"
+           comment="Zobaczmy czy uda mi się rozwiązać ich problem"/>
+   <string key="14_gatherers" value="Gatherers" comment="Filtr nr 1"/>
+   <string key="14_offerings" value="Offerings" comment="Filtr nr 2"/>
+   <string key="14_pipes" value="Pipes" comment="Filtr nr 3"/>
+   <string key="14_tincan" value="Stay! We don't want to scare them off..."
+           comment="GŁOWNA POMPA NIEAKTYWNA. SPRAWDŹ STATUS."/>
+   <string key="14_trust" value="I need to gain their trust to get inside..."
+           comment="Filtr 1: "/>
+   <string key="14_allthis" value="All this just to get the water running..."
+           comment="#Filtr 2: "/>
+   <string key="14_solve" value="Let's see if I can solve their problem"
+           comment="#Filtr 3: "/>
+   <string key="14b_filterConsole_title1" value="Filter no.1" comment="NIEAKTYWNY"/>
+   <string key="14b_filterConsole_title2" value="Filter no.2" comment="AKTYWNY"/>
+   <string key="14b_filterConsole_title3" value="Filter no.3"
+           comment="WSZYSTKIE FILTRY MUSZĄ BYĆ AKTYWNE ABY WŁĄCZYĆ GŁÓWNĄ POMPĘ"/>
+   <string key="14b_pumpConsole_c1" value="MAIN PUMP OFFLINE. CHECK STATUS."
+           comment="Informacje"/>
+   <string key="14b_pumpConsole_c21" value="Filter 1: " comment="Stan"/>
+   <string key="14b_pumpConsole_c22" value="#Filter 2: " comment="Włącz"/>
+   <string key="14b_pumpConsole_c23" value="#Filter 3: " comment="Główna Pompa Wodna"/>
+   <string key="14b_pumpConsole_c2a" value="OFFLINE" comment="Zniszczona winda"/>
+   <string key="14b_pumpConsole_c2b" value="ONLINE" comment="Zniszczona#ładowarka"/>
+   <string key="14b_pumpConsole_c3"
+           value="ALL FILTERS NEED TO BE ONLINE IN ORDER TO TURN ON THE MAIN PUMP"
+           comment="Ładowarka"/>
+   <string key="14b_pumpConsole_o1" value="Info" comment="Zablokowana bateria"/>
+   <string key="14b_pumpConsole_o2" value="Status" comment="Pusta bateria"/>
+   <string key="14b_pumpConsole_o3" value="Turn On" comment="Pełna bateria"/>
+   <string key="14b_pumpConsole_title" value="Main Water Pump"
+           comment="Prawie zjedzony przez Grue..."/>
+   <string key="14b_broken_elevator" value="Broken lift" comment="Chyba już działa"/>
+   <string key="14b_broken_charger" value="Broken#charger" comment="Został jeszcze jeden"/>
+   <string key="14b_charger" value="Charger" comment="Już...Teraz główna pompa"/>
+   <string key="14b_battery_locked" value="Locked battery" comment="Statystyki huty"/>
+   <string key="14b_battery_empty" value="Empty battery" comment="Raport wydajności"/>
+   <string key="14b_battery_full" value="Full battery"
+           comment="Alarm o naruszeniu zabezpieczeń"/>
+   <string key="14b_grue" value="Almost eaten by a grue..."
+           comment="Wznoszenie się do życia#wiecznego z bliskimi"/>
+   <string key="14b_on_1" value="Seems to be working now"
+           comment="Ilość sekcji: 2#Maks. Temp. sekcji: 150#Maks. temp. całkowita: 200"/>
+   <string key="14b_on_2" value="One more to go" comment="Temperatura Sekcji 1: "/>
+   <string key="14b_on_3" value="Done...Now the main pump..."
+           comment="#Temperatura Sekcji 2: "/>
+   <string key="15_stats_1" value="Smelter statistics" comment="#Temperatura Pieca: "/>
+   <string key="15_stats_2" value="Power statistics" comment="Informacje"/>
+   <string key="15_stats_3" value="Security breach alert" comment="Stan"/>
+   <string key="15_ascend" value="Bringing loved ones to eternity" comment="Stan Pieca"/>
+   <string key="15_furnaceConsole_c1"
+           value="No. of sections: 2#Max section temperature: 150#Max total temperature: 200"
+           comment="[CZEKAM NA KOMENDĘ]"/>
+   <string key="15_furnaceConsole_c21" value="Section 1 temperature: "
+           comment="NIE MOŻNA NAPEŁNIĆ: brak wózka pod dozownikiem"/>
+   <string key="15_furnaceConsole_c22" value="#Section 2 temperature: "
+           comment="NIE MOŻNA NAPEŁNIĆ: wózek pełny"/>
+   <string key="15_furnaceConsole_c23" value="#Furnace temperature: "
+           comment="NAPEŁNIANIE W TRAKCIE"/>
+   <string key="15_furnaceConsole_o1" value="Info" comment="Napełnij"/>
+   <string key="15_furnaceConsole_o2" value="Status" comment="Dozownik rudy"/>
+   <string key="15_furnaceConsole_title" value="Furnace Status" comment="Nie ma zasilania"/>
+   <string key="15_oreConsole_c1" value="WAITING FOR COMMAND"
+           comment="Potrzebuje więcej zasilania"/>
+   <string key="15_oreConsole_c2" value="CANNOT FILL: cart not under dispenser"
+           comment="Obecny cel: "/>
+   <string key="15_oreConsole_c3" value="CANNOT FILL: cart already full"
+           comment="Dozownik"/>
+   <string key="15_oreConsole_c4" value="FILLING IN PROGRESS" comment="Kruszarka"/>
+   <string key="15_oreConsole_o1" value="Fill" comment="Huta"/>
+   <string key="15_oreConsole_title" value="Ore dispenser" comment="Dozownik rudy"/>
+   <string key="15_power" value="It has no power" comment="Kruszarka rudy"/>
+   <string key="15_power2" value="It needs more power" comment="Huta rudy"/>
+   <string key="15_transportConsole_c1" value="Current transport platform target: "
+           comment="Transport rudy"/>
+   <string key="15_transportConsole_c1a" value="Dispenser"
+           comment="Pasuje, ale coś jest nie tak..."/>
+   <string key="15_transportConsole_c1b" value="Crusher" comment="Kolejna obca rasa?"/>
+   <string key="15_transportConsole_c1c" value="Smelter" comment="Domy w ruinach"/>
+   <string key="15_transportConsole_o1" value="Ore dispenser" comment="Starożytne groby?"/>
+   <string key="15_transportConsole_o2" value="Ore crusher"
+           comment="Maszyna Aktywująca Bliski Element Celowy##Lista komend:#"/>
+   <string key="15_transportConsole_o3" value="Ore smelter" comment="Dół"/>
+   <string key="15_transportConsole_title" value="Ore transport control" comment="D"/>
+   <string key="15_wrong_track" value="It fits, but it doesn't seem right..."
+           comment="Kasuj"/>
+   <string key="16_aliens" value="Another alien race?" comment="Lewo"/>
+   <string key="16_housing" value="Housing in ruins" comment="L"/>
+   <string key="16_graves" value="Ancient graves?" comment="Prawo"/>
+   <string key="16_cubeConsole_c1"
+           value="Move Action Block and Execute Command##Command list:#"
+           comment="P"/>
+   <string key="16_cubeConsole_d" value="Down" comment=", "/>
+   <string key="16_cubeConsole_d2" value="D" comment="M. A. B. E. C."/>
+   <string key="16_cubeConsole_delete" value="Delete" comment="Góra"/>
+   <string key="16_cubeConsole_l" value="Left" comment="G"/>
+   <string key="16_cubeConsole_l2" value="L" comment="Akcja"/>
+   <string key="16_cubeConsole_r" value="Right" comment="A"/>
+   <string key="16_cubeConsole_r2" value="R" comment="Woah!"/>
+   <string key="16_cubeConsole_sep" value=", "
+           comment="Opiekun Edenu utrzyma#nas w życiu wiecznym"/>
+   <string key="16_cubeConsole_title" value="M. A. B. E. C."
+           comment="Eden będzie pod ochroną#Opiekuna przez całą wieczność"/>
+   <string key="16_cubeConsole_u" value="Up"
+           comment="Opiekun Edenu zabierze#naszą świadomość"/>
+   <string key="16_cubeConsole_u2" value="U"
+           comment="Opiekun Edenu zaopiekuje#się naszą świadomością"/>
+   <string key="16_cubeConsole_use" value="Action"
+           comment="Dzień Życia Wiecznego nadszedł!"/>
+   <string key="16_cubeConsole_use2" value="A"
+           comment="Dołącz do swoich bliskich na zawsze!"/>
+   <string key="17_shocked" value="Woah!" comment="Rośliny ozdobne"/>
+   <string key="17_stairs_1a" value="Eden Protector will#keep us alive forever"
+           comment="Wznoszenie się do wieczności"/>
+   <string key="17_stairs_1b" value="Eden will be hidden and#protected for eternity"
+           comment="Jakiś wywietrznik?"/>
+   <string key="17_stairs_2a" value="Eden Protector will take#our consciousness away"
+           comment="Opiekun Edenu"/>
+   <string key="17_stairs_2b" value="Eden Protector will keep#our consciousness safe"
+           comment="Boskie Narzędzie"/>
+   <string key="17_banner_a" value="Immortality Day finally arrived!"
+           comment="Zaproszenie"/>
+   <string key="17_banner_b" value="Join your loved ones forever!"
+           comment="Nareszcie! Ukryte Miasto...Ale..."/>
+   <string key="17_plants" value="Decorative plants" comment="Gdzie są wszyscy? Halo!?"/>
+   <string key="17_ascend" value="Ascending to eternity" comment="Coś w piasku?"/>
+   <string key="17_vent" value="Some vent?" comment="Nareszcie...Piramida Wieczności..."/>
+   <string key="17_protector" value="Eden Protector" comment="NIE POZWOLĘ CI ICH ZABIĆ"/>
+   <string key="17_tool" value="Divine tool" comment="Co do...?"/>
+   <string key="17_invitation" value="Invitation" comment="Moja kula! Parzy!"/>
+   <string key="17_enter" value="Finally...The hidden city! But..." comment="Świetnie..."/>
+   <string key="17_enter2" value="Where is everyone? Hello?!"
+           comment="NIECZYSTOŚĆ wykryta"/>
+   <string key="17_gun" value="Something in the sand?" comment="&lt;!--TY--&gt;"/>
+   <string key="17_pyramid" value="At last... The Pyramid of Eternity..."
+           comment="BRAK DOSTĘPU -&gt;DO&lt;- EDENU"/>
+   <string key="17_red" value="I WONT LET YOU KILL THEM"
+           comment="NIECZYSTY &amp;&amp; !KOMPATYBILNY"/>
+   <string key="17_sphere1" value="What the...?" comment="NIE POZWOLĘ ZABIĆ MOICH DZIECI"/>
+   <string key="17_sphere2" value="The sphere! It's burning hot!"
+           comment="ZNISZCZĘ CIĘ TWOIM WŁASNYM UMYSŁEM"/>
+   <string key="17_sphere3" value="Great..." comment="Zombie pirat?"/>
+   <string key="18_intro_1" value="IMPURITY detected. "
+           comment="Bałem się jednego jako dziecko..."/>
+   <string key="18_intro_2" value="&lt;!--YOU--&gt;" comment="BRONIĆ $KOSZTEM$ EGZYSTENCJI"/>
+   <string key="18_intro_3" value="NOT ALLOWED -&gt;INTO&lt;- EDEN"
+           comment="Uszkodzone sektory pamięci:"/>
+   <string key="18_intro_4" value="IMPURE &amp;&amp; !COMPATIBLE"
+           comment="023, 024, 041, 047, 118, 119, 225"/>
+   <string key="18_intro_5" value="I WON'T LET YOU KILL MY CHILDREN"
+           comment="...Przywracanie..."/>
+   <string key="18_intro_6" value="I'LL RENDER YOU USELESS USING YOUR OWN MIND"
+           comment="...Brak dostępu..."/>
+   <string key="18_zombie_1" value="Zombie pirates?" comment="Błąd krytyczny pamięci"/>
+   <string key="18_zombie_2" value="I was scared of one when I was a kid!"
+           comment="244; %$^; $$3"/>
+   <string key="18_boss_intro_1" value="PROTECT @ COST OF MY EXISTENCE"
+           comment="Przywracanie z kopii zap@$%"/>
+   <string key="18_boss_hit1_1" value="Corrupt memory sectors:" comment="BRAK DOSTĘPU"/>
+   <string key="18_boss_hit1_2" value="023, 024, 041, 047, 118, 119, 225"
+           comment="Przeciążenie jednostki centralnej"/>
+   <string key="18_boss_hit1_3" value="...Restoring..." comment="ErrErrErrErrErr"/>
+   <string key="18_boss_hit1_4" value="...Access denied..."
+           comment="...Wyłączenie awaryjne rozpoczęte..."/>
+   <string key="18_boss_hit2_1" value="Critical memory error"
+           comment="@DZIECI...ZAWIODŁEM...WAS..."/>
+   <string key="18_boss_hit2_2" value="244; %$^; $$3" comment="...TAK...PRZYKRO..."/>
+   <string key="18_boss_hit2_3" value="Backup Rest@$%" comment="Nie...Muszę...Kopać..."/>
+   <string key="18_boss_hit2_4" value="ACCESS DENIED" comment="Nie...Błagam..."/>
+   <string key="18_boss_hit3_1" value="Main unit overload"
+           comment="Nigdy nie przekopię się przez to wszystko..."/>
+   <string key="18_boss_hit3_2" value="ErrErrErrErrErr" comment="Czy może przekopię...?"/>
+   <string key="18_boss_hit3_3" value="...Emergency shutdown initiated..."
+           comment="Śmierć..."/>
+   <string key="18_boss_hit3_4" value="@CHILDREN...I FAILED...YOU..." comment="...kop..."/>
+   <string key="18_boss_hit3_5" value="...SO...SORRY..." comment="...Przejście?"/>
+   <string key="19_back" value="No...I need to...dig..."
+           comment="Czy...Czy naprawdę skończyłem?"/>
+   <string key="19_collapse1" value="No...Please..." comment="Mój najlepszy przyjaciel..."/>
+   <string key="19_collapse2" value="I'll never dig through all of this..."
+           comment="Moi przyjaciele..."/>
+   <string key="19_collapse3" value="Will I?..." comment="Moja miłość..."/>
+   <string key="19_death" value="Death..." comment="Miesiące?..."/>
+   <string key="19_dig" value="...dig..." comment="@INTRUZ@ ZBYT BLISKO"/>
+   <string key="19_dig1" value="...Opening?" comment="NIE -&gt;WPUSZCZĘ&lt;- CIĘ"/>
+   <string key="19_dig2" value="Am I...Am I finally done?" comment="NIE &lt;-WYPUSZCZĘ-&gt; ICH"/>
+   <string key="19_friend" value="My best friend..." comment="\\PLAN AWARYJNY\\"/>
+   <string key="19_friends" value="My friends..." comment="Co?"/>
+   <string key="19_love" value="My love..." comment="Nie!"/>
+   <string key="19_months" value="Months?..." comment="Winda na skały..."/>
+   <string key="19_red1" value="@INTRUDER@ TOO CLOSE" comment="Kula..."/>
+   <string key="19_red2" value="I WONT LET YOU -&gt;IN&lt;-"
+           comment="Gotowy na kolejny dzień kopania..."/>
+   <string key="19_red3" value="I WONT LET THEM &lt;-OUT-&gt;"
+           comment="Może dziś będzie TEN dzień..."/>
+   <string key="19_red4" value="\\MEASURES AUTHORIZED\\" comment="Lata?..."/>
+   <string key="19_red5" value="What?" comment="Dołącz do żony"/>
+   <string key="19_red6" value="No!" comment="Dołącz do kosmitów"/>
+   <string key="19_rock" value="Rock disposal..." comment="Nareszcie...Wolni..."/>
+   <string key="19_sun" value="Sun?..."
+           comment="...Ale nalegamy abyś został z nami jako nasz przyjaciel..."/>
+   <string key="19_wake1" value="Ready to dig again..."
+           comment="Nie popełniaj tego błędu co my"/>
+   <string key="19_wake2" value="Maybe today is the day..."
+           comment="Bez śmierci życie traci znaczenie"/>
+   <string key="19_years" value="Years?..." comment="Więc..."/>
+   <string key="19b_end_1" value="Join my wife" comment="Czego pragniesz?"/>
+   <string key="19b_end_2" value="Join the aliens"
+           comment="Spędziliśmy tysiąclecia w formie cyfrowej świadomości"/>
+   <string key="19b_exit_1" value="Finally...Free..."
+           comment="To miało być nasze życie wieczne"/>
+   <string key="19b_exit_10" value="...But we insist you stay with us as our friend"
+           comment="Ale z każdym stuleciem stawaliśmy się bardziej puści..."/>
+   <string key="19b_exit_11" value="Do not make the same mistake as we did"
+           comment="Szukasz wieczności dla swojej żony i siebie"/>
+   <string key="19b_exit_12" value="Without death, life loses its meaning"
+           comment="Możemy przenieść jej umysł do cyfrowej formy"/>
+   <string key="19b_exit_13" value="So..."
+           comment="Ale nie potrafimy przywrócić jej fizycznej postaci"/>
+   <string key="19b_exit_14" value="Which one will it be?"
+           comment="Musiałbyś do niej dołączyć... Na zawsze..."/>
+   <string key="19b_exit_2" value="We spent millennia as a digital consciousness"
+           comment="Uszanujemy taką decyzję"/>
+   <string key="19b_exit_3" value="This was supposed to be our eternal life"
+           comment="''Nie wie, że tu jesteś''"/>
+   <string key="19b_exit_4"
+           value="But as centuries passed, we became more and more hollow"
+           comment="''Dostań się do głównego komputera''"/>
+   <string key="19b_exit_5" value="You seek eternity for your wife and yourself"
+           comment="''Wyłącz system''"/>
+   <string key="19b_exit_6" value="We can convert her mind into digital form"
+           comment="''Wiemy czego szukasz''"/>
+   <string key="19b_exit_7" value="But we cannot bring her physical form back"
+           comment="''Damy ci to...''"/>
+   <string key="19b_exit_8" value="You would have to join her there...forever..."
+           comment="''...Jak nas wypuścisz''"/>
+   <string key="19b_exit_9" value="We will respect this choice..."
+           comment="Grafika i Animacje"/>
+   <string key="19b_expo_1" value="''It doesn't know you're here''"
+           comment="Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#Somename Andsurname#"/>
+   <string key="19b_expo_2" value="''Get into the mainframe''"
+           comment="Sponsorzy z Kickstarter'a"/>
+   <string key="19b_expo_3" value="''Shut the system down''" comment="Blaise Sanecki"/>
+   <string key="19b_expo_4" value="''We know what you seek''"
+           comment="Scenariusz i Reżyseria"/>
+   <string key="19b_expo_5" value="''We will give it to you...''" comment="Muzyka"/>
+   <string key="19b_expo_6" value="'...After you let us out''" comment="Panu Talus"/>
+   <string key="credits_art" value="Art and Animation" comment="Pawel Matysik"/>
+   <string key="credits_backerlist"
+           value="
+Alex Valero ''Danda''#
+David G Piper#
+Russell Deitch#
+Bobsplosion#
+Kokutouchichi#
+Richard James Errington#
+Mabec#
+Leif Conti-Groome#
+Pietro (Emmett) Zambelli#
+Alexandre VALIN#
+Franz Cros#
+Tim Luckett#
+Anthony ''Evil Tony'' Williams#
+Curtis Riley (ComedyCurtis)#
+Stephan Tanguay#
+Joshua David Lee#
+Andy R#
+JaegerPony#
+Sean Koh#
+Daniel Repa#
+Dan Alexander Porter#
+Greg MacLean#
+Don Raúl &amp; Tequila Works#
+BrainDeadEdd#
+Nox#
+Bobby#
+Gabriel Balda#
+Chris Völkle#
+Emil Andersson / HerrEmil#
+Morten Grannes#
+Nathan Bromhead#
+Siraj Kukan#
+Davide ''NexNova'' Tabacco#
+Ian MacLeod#
+Tyler#
+Scott Pease#
+Andrew Mahler#
+Christian Dannie Storgaard#
+Devin Ozel#
+Alois Kozar#
+Daniel Snellgrove#
+Cansin Akcasoy#
+Hadrien Pezier#
+stiench#
+Edouard Lombard#
+Yann ''the'' Best#
+Hisham ''Bigbarazi'' Barazi#
+Brent Disbrow#
+Olivier Martin#
+The Law#
+Andrew Patterson#
+acr0b3rts#
+Matthieu ONFRAY#
+Jimmy Walker#
+Petula#
+Lutz Osterkorn#
+sissik#
+Roberto Faria (BetoJR)#
+Wiktor Adamski#
+Kurt Klemm#
+Robert Krondorfer#
+Stefan Rey Arevalo#
+Jens Palm#
+TwoHeadedBoy#
+Demond Rogers#
+Javier Tomé#
+Shane Gill#
+Keith Harper#
+Daniel ''Ithzerian'' Goldberg#
+Jeff Machado#
+Gingertastic#
+Freddy Filonczuk#
+Charles Chong#
+Rory J. Murphy#
+Lunithrax#
+Ian Smith#
+Khalid Al Dousari#
+Laurent ''Proton'' Protti#
+UbiquitousGrue#
+Christof Fiedler#
+Nicolas ''Pixel'' Noble#
+Colorado Jones#
+aboycalledtuna#
+Uri Baruchin#
+contrasia#
+Logan Dwight#
+Maxime Haineault#
+Ville Ruusutie#
+retypeNick#
+Jean-Denis Haas#
+Ryan Howard#
+Shockedder#
+GerardoLegend#
+Shane Hoover#
+Turom#
+Steve Sabol#
+Glen Scott#
+Konstantin Gorelyy#
+Valdras#
+Hanna Medyńska#
+Cronossphere#
+Rik Grant#
+Bjorn M#
+Jakub ''Wasiu'' Wasiluk#
+Joshua Bushman#
+5cha1a#
+Shirowski#
+SKArcade#
+Dean Komis#
+Benjamin M Fisher#
+partTimeCrazy#
+Jared Michael#
+Marcus Vinicius Ferreira - Mv#
+Roger L. Lampe#
+Paul van Kesteren#
+Jérôme Desmond#
+Random#
+Geoff C#
+AbdulAziz Al-Kaboor#
+Daniel Lin#
+Scott Berry#
+Anthony Parra#
+Rob Coyne#
+Miguel de Miguel#
+Vesa Uhlenius#
+Thomas Moran#
+Gynvael Coldwind#
+Alan and Telicia Kurrle#
+Tyler Stewart#
+Sagan Lacy#
+Necrosis Thanatos#
+Rafał Zadura#
+Gaëlle ''Gelweo'' Wolf#
+Thomas 'Freaky' Hurst#
+Tim Stair#
+Mike Danylchuk#
+Canada#
+Rain of Tears#
+Le tracteur#
+DJ SumDog#
+Kevin Riese#
+Amy 'Holgast' Macintyre#
+Eriard#
+Thomas Goff#
+Maik Kusche#
+Rasmus Jarl#
+Sessjion#
+Steven J Bodnar#
+Ian Gerdes#
+Tomer Gabel#
+AstronautDown#
+Jibs Monteef#
+Chris Draheim#
+Bruno Antunes#
+Some1#
+Chris (Enursha) Hanson#
+David Hostetler#
+edomaur#
+Skunkoon#
+Iksnoo#
+Martin Ottowitz#
+Gersen#
+BloodScourge#
+Aaron Bishop / hikaricore#
+Hannes Gottschall#
+Francesco Cavallieri#
+Michael Sherby#
+Le Roux Bodenstein#
+Kevin Woon#
+Leonardo Prunk#
+Barret Vasilchik#
+Thomas McCarthy#
+Massimo Loi#
+Manboy#
+White Taiwanese Bro#
+valcan_s#
+Dave Forest#
+Charlie Vick#
+Olivier Yiptong#
+Spriggsy#
+Bobby Hutson#
+Michael Yull#
+John A Booth#
+Michael Kramer#
+Rob Stacey#
+Jools Watsham#
+Steve Ince#
+Ross Coleman/Th3 D35tr0y3r#
+Mabuvu#
+Sven Van de Perre#
+Frédéric Soete#
+Adrian Secord#
+Ryan Chopper Gertenbach#
+Mr Gingerbread#
+Ginger Bread#
+The_Source#
+Nicolas Mutis-Mesa#
+Chris Jenkins ( nickname: Delvin)#
+Mylescc#
+Elliot Hatch#
+Sebastian Rothe#
+Theo#
+Hodge#
+Benderius Rodriguor#
+Billy Flanigan#
+Willsea#
+Jason Coon#
+DLQ#
+Jacob Jensen#
+fLESHeye#
+Fred Voz#
+Samantha Kalman#
+Philip Frantzis#
+Samuel Genoese#
+Shade#
+RustyLogic#
+Yurii ''Saodhar'' Furtat#
+Mel Tarver#
+Brian Tartell#
+Dermott Le Freak#
+Noisepassfilter#
+Adam John Manns#
+IndieZok#
+TouchGameplay#
+Tsorevitch#
+kuroiXiru#
+Xuperdidi#
+Dylyan#
+Kevin Cerdà#
+Leonard Menchiari#
+Wayne Talbot#
+Tero Lepisto#
+Per Bonomi#
+Jan-Ove Lorenzen#
+Jeremy Newland#
+StpdSxySzchn#
+Mattias Dahlberg#
+Christian Schubert#
+Carbonated_Soda#
+Gepka#
+James Bywater#
+Rodney Caruana#
+Matthias Wiechol#
+Ville Ranki#
+Warrax25#
+Edgar Jardim#
+Andrea Maderna#
+Marc-Andre Deslongchamps#
+Peter Gelencser (PsPeet)#
+Gabriel T.#
+Hadrien ''Morty'' Debris#
+Beautifun Games#
+Gunnar Grenlee#
+Martin ''Schmoo'' Jonsson#
+reuben1331#
+Aydıncan Ataberk#
+Matthew W. Reynolds#
+Simone Tagliaferri#
+Morten Buhl#
+Pascal Worreschk#
+Craig (AsciiSmoke) Poole#
+Nikki Starostka#
+Slim934#
+Antonio Raquel#
+Snurra#
+Frayde#
+Karen Agerbo Bennetzen#
+Josh ''Tenshinoshi'' Murray#
+Urbster#
+Simon Corry#
+Dennis ''Jizzle'' Jensen#
+Rasmus Lill#
+Ray N#
+Heavydoodie#
+Steif O. Rever#
+egozot#
+IronRaiden#
+Travis Whalen#
+Damon L. Garner#
+Chris Sullens#
+AJ917#
+Christoph Reinbothe#
+Marco van de Haar#
+Gimlee#
+James Klingler#
+Marius Braasch#
+Andrea Calogero#
+Oskari Lindblad#
+Shai Abraham#
+offendedpuppet#
+Massimiliano Sgarra#
+MIchael Somers#
+Igor Kozyrin#
+Jotaha Ardathair#
+Tanner Yuhase#
+Michiel Kolders#
+Errol Lobo#
+Steven Foreman#
+Daniel Crane#
+Meld#
+LoJo#
+Akwartz#
+kneo#
+Zoë Blade#
+Michael!#
+Zachary Clemente#
+Brian O'Byrne#
+sgtpoliteness#
+Christopher ''Guts'' Graf#
+SonTriton#
+Chris Dolle#
+Sq#
+Gavin Owens#
+Johan Halse#
+Alexander ''Xan'' Kashev#
+Lolholm#
+Paul Jeffrey#
+Krzysztof Słomka#
+McAllistron#
+Michael Patrick Rogers#
+Press this line for alternate (happy) ending.#
+Cameron Smither#
+Joni Trivedi#
+Sébastien BLONDY#
+Jonas Schedin#
+Chris Geschkat#
+Alex Ball#
+Chris Murphy#
+Samuel Evans#
+Kenny Christenson Jr.#
+7Blades#
+James Richard III#
+Raphael Ayala Medeiros#
+Simon 'X' Sbrigoli#
+Josh Gilbank#
+Pawel ''Matoos'' Matusiak#
+kriptosporidium#
+A.E.#
+Slapstick Judas#
+Dan Wallace#
+Jan Sælid#
+James P#
+theadam#
+Mark Barr#
+Toby Lee#
+Matt Popowski#
+Sirax#
+Angel ''Masikus'' Hernandez#
+Richard Y. Jamalkhan#
+CavalierNL#
+Lewis Smith#
+Richard Deck#
+Roman Gornostaev#
+Ketsko!#
+Zuhur Abdo#
+Kent Mages#
+Phil Giarrusso#
+Mikhail Nikitin#
+Frederik Lillelund#
+Nate Nichols#
+Jason Pogorzala#
+Soenke C. ''Warby. Seidel#
+Dan Thurot#
+Brandon Quinn#
+Cosmin#
+David Shaver#
+Julien ''Fire'' Marchant#
+0tacoon#
+RJ Platto#
+Darryn#
+Shablo5#
+Roger Chi#
+Shane Newton#
+Ibrahim Shahin#
+Ledere#
+tha_waffla#
+Drew Langlois#
+Scott Brown#
+Ian J Treu#
+The First Squirrel Astronaut#
+Joe Russ#
+David Garrison#
+Tangointhenight#
+Joe Saint#
+Eric Noga#
+Ben Malin#
+Will New#
+Knasterband#
+andrea di stefano#
+Cosmost#
+Georgios ''Dreamweaver'' Chrysikopoulos#
+Paul J. Grzymkowski (Paulogy)#
+Nilo#
+Marcin ''ergo'' Lulek#
+Robert Rubsam#
+Ahuizolt#
+Morgan Shockey#
+Faugn#
+Ziggy Jennings#
+Marcin Wolny#
+Scott ''Thorigrim'' Tuinstra II#
+PixelbackWriter#
+Umberto Tonella#
+Guy Galer#
+Radu Muresan#
+Michael Miller#
+Mally#
+Tai#
+Dane Payne#
+tags#
+Tom B#
+Kevin#
+Adam Lamb#
+Radek Koncewicz#
+Ryan Vissers#
+Klokwurk#
+Frbls#
+Scott Bowden#
+Martin Schlemmer#
+Ken Higginbotham#
+Stefan Mühlinghaus#
+Rafael Abreu#
+Curtis Herbert#
+syn666#
+Marton Puglisi#
+Mariya Krutova#
+John Sehag#
+Jon Ziman-Bright#
+Anthony ''eXo'' Quarm#
+Shane Sweeney#
+Jack Monahan#
+Steven Shepherd#
+Leon Zawada#
+Jake ''Nomuerto'' Baumann#
+Andy Kreienkamp#
+Jim Connolly#
+Dario Oropallo#
+David A. Jones#
+Julian Lancaster#
+Poop Office#
+Kowotani#
+Marc ''MackDaddy'' Mackin#
+Matt van Andel#
+TheoQc#
+Ken robkin#
+''ConraDargo'' Engström#
+nelak#
+Lyan Porto#
+Johan Larsson#
+Arreis O'Neil#
+Colin McDonald#
+Roger Landes#
+G Frank#
+Sir Ktwilight#
+Tommy Thompson#
+Christopher Ploszaj#
+Dawfydd Kelly#
+Rafael Chaves de Oliveira Horta#
+Raindog Mx#
+Gil Megidish#
+Chad Verrall#
+Sam Loesch#
+itsol!#
+Chain#
+Edward J Smola III#
+Andrew Gant#
+Admiral Snackbar#
+Alexander ''Moisha'' Popov#
+C.J. Heflin#
+Michael Hollis#
+Sebastien Marion (Kham)#
+Adam D. Bormann#
+Eric Michael O#
+Heisenberg78#
+Matthew Stordeur#
+Jon Hollander#
+phr0zenx#
+Norylan#
+Davide A. Fiandra#
+Kevin Nickel#
+James Ingold#
+Joshua Schendel#
+George 'GGN' Nakos#
+DadouXIII#
+Gustaf Lööf#
+Predseda#
+Jarosław Sobieszek#
+Michael Neylon#
+Arnaud Roch#
+Chris Hale#
+Vince Loughney#
+Oliver Stevenson#
+Hauke Petersen#
+Ilden Webber#
+Jason Inman#
+Samir Hussein#
+Michael Eisen#
+Ludvig Orvegård#
+Alex T#
+Michaela D. Buckley#
+Godorito#
+Alex Tretrop#
+nog1potje#
+Matt Taylor#
+Asztalos Attila Oszkár#
+Kayatt#
+Ethan Abramson#
+Jasper.D.Hols#
+Dan Wollin#
+Alberto Toledano Garcia#
+Scott M. Hallett#
+Joonas Rasimus#
+Lina Wilson#
+Piotr Król#
+Gabriel Roccisano#
+Alexis Perron#
+Miloch#
+Nicolas SORET#
+Daniel Pucher#
+Adrian Preoteasa#
+Emanuele 'I am in more credits' Trapanese#
+Jesse Alan Willard#
+Andrzej Krakowian#
+Jeff Fortner#
+Phillip Purcell#
+Jimmy Dali#
+Javier Fraga#
+Timothy Dice#
+Alexgrin#
+Neil Allain#
+Tomasz Werner#
+Leewelo#
+Simon K Jones#
+Ascenchen#
+Manuel Schommer#
+Alien426#
+Julian St. Pierre#
+sunburnedpenguin#
+PoussinJoyeux#
+Alexey Marakushev#
+Xander the Blue#
+Tyler J. Burleigh#
+Mark Buffone#
+Shpend Berisha#
+Pete#
+Vladimir Kalugin#
+Csaba Fehervary#
+Andrew Reid#
+Jasper Woudenberg#
+Liam Kidwell#
+Collin Barrett#
+Antoine Maucri#
+Till Brandt#
+Tom Battey#
+Doc Sigma#
+batphantom#
+Zach Aikman#
+Toleman#
+Adam Lacoste#
+Cyphid#
+Christopher Grame#
+Matt Pearson#
+notlikecalvin#
+Glenn McKay#
+Nate Kaldor#
+Nick Tekverk#
+Eduardo Yamatogi#
+Rick Hamelin#
+Renato Fornazier Weber#
+Luiz Souza#
+Timur Wolf#
+Tony Rouse#
+Matthew 'PM8K' Russell#
+Ian Murphy#
+Reinaldo ''ShogunCR'' Chacon#
+Eduardo Prox#
+Aazealh#
+Omar Hebshi#
+Pete Dodd (KillerSphere)#
+Adrian Wilkinson#
+Spencer Buchanan#
+Alex Jansen#
+Lunar Ray Games#
+Pete Byrd#
+Meuacan#
+JECJDCKGCECC#
+Rafael Lucena ''Urarafa''#
+Remi Perron#
+Chris Conway#
+Tiago Godinho#
+Karil of Yore#
+Ryan Brett McGie#
+Andreas Bäckström#
+Dan Buchman#
+Matt Matsuura Olch#
+Ben CHandler#
+CodyR#
+Ivan (The Ocean) Lund#
+Ryan Duffin#
+Mattias Brunnert#
+Nelson ''kudos2n'' Bergen#
+Dane Krams#
+Chthonian Sun#
+Ryan Hopf#
+Wikka Wikka#
+Robert Haynes#
+TenThousandSuns#
+Titousensei#
+Peter C. O'Rourke#
+Michael Corlett#
+Simon Christensen#
+Sarah J Brown#
+Tyler Garrett Brown#
+Will Nepstad#
+Jörn Huxhorn#
+Fruko#
+Sven Smith#
+Micheal 'Kolyin' Nunn.#
+celluliteradio#
+Aa3bl4#
+Sergiy Gonchar#
+Ryan Yokley#
+Kuman#
+JunJun#
+Greg Nugent#
+Skye Nathaniel Schiefer#
+MAG#
+[phredgreen]#
+Taylor Woll#
+Michael Zijlstra#
+Stephen A Swartz#
+Marshall Gault#
+Jus Christian#
+Marty Coulombe#
+MrZeebub#
+Werner Enz#
+Adam M. Sorkin#
+Theused182#
+Matthew McNamara#
+Sebastian Van Woerkom#
+Joshua Tasker#
+screaming_trees#
+Dmitrii Tretyakov#
+William Briscoe#
+Timo Yli-Hemmo#
+Jordan Gulbransen#
+Zakai Gonshaw#
+Voxra#
+tigikay#
+JJ Lanco#
+Slicke#
+Jussi Saarelma#
+Henry Wu#
+Sébastien Delahaye#
+Alex ''N1tr0'' Podgoredsky#
+Lassi Kurkijarvi#
+Paul Cocker#
+Avtom#
+Khalimerot#
+Christian Graf#
+Frank Reding#
+@ijneb11#
+Schwar#
+Jon O Christiansen#
+BliBlaBlob#
+Cameron Nutter#
+Evan Coolen#
+Mihail Cristescu#
+Oliver Kriebaum#
+Yoav Atsmon-Raz#
+Pandrakken#
+tvprodukt#
+Brice (Bery) REBILLARD#
+Joakim Wimmerstedt#
+Con 'Vlahka' Billiris#
+Brandon Barnes#
+Victor Cerezo Olmo - ''vEK''#
+Pablo Menendez#
+Michal '.Xaos' Lewandowski#
+Abraham Lincoln#
+Patrick Wong#
+DJRufus93#
+Maximilien Chevalier#
+JetLion#
+Tomáš Štulrajter#
+Paco Zafra#
+powercozmic#
+Matt Green#
+James Curtis#
+Pedro Andreiolo#
+Maurice Chuck#
+Sherif Aziz#
+Diego Santos#
+Paul Jacobson#
+Stefan Schlichting#
+Clement Thirouin#
+Guillaume de LaBruere#
+Petro Sukhomeilo#
+Liad Geva#
+Florian Falcucci#
+Nathaniel Gratton#
+Kevin Conner#
+Miguel Coury#
+Gregory Gunther#
+Rudi ''Grockle'' van der Heide#
+whipped#
+Raphael Meyer#
+Roil#
+Whimpy13#
+Yeti#
+Steven Ingram#
+Toby Daigneault#
+Benedict Murray#
+Dave DeVetter#
+Georges Benatti Jr#
+Ralphie27#
+Joule from Factornews#
+Mac Rebisz#
+Nicholas Dookwah#
+Johann Queuniet#
+Shawn Wingler#
+Gerald Heidrich#
+woolyninja#
+Matt Thompson#
+Henric Huckabay#
+Beardomancer#
+Jonah Wallerstein#
+Diego Silvestre#
+Ultimodragon64#
+Kyle Hodgen#
+Bomulus#
+Dorian SRed#
+Matheus Felipe#
+Diego ''Qyburn'' Poblete Rosales#
+Gwenael Talhouet#
+Tobias 'Dopefish' Lundmark#
+A Large Potato#
+Skyler Arabak#
+Mitch Souders#
+Daniel Kransberg#
+Brodieman#
+Alex Boukas#
+0xdeadbeef#
+cianty#
+Jeremy Evans#
+Andrey Averyanov#
+Tony Szedlak#
+George Redpath#
+Bruno Simões#
+Noah Wexo#
+Sen-Commander#
+Erik Rijshouwer#
+Saúl Tortosa Heredia#
+Sven Viking#
+Paul C#
+@sarcasticylon#
+Steeve Lambert#
+Dholem#
+Bruno Fonseca#
+Bryan P. Moynihan#
+Thomas Herzog#
+Chris Canavan#
+Lucas Persson#
+Gutxi Haitz#
+Dean Ciesla#
+bender#
+Venron#
+Ulrik#
+anonymous#
+Craal#
+Max Bell#
+slightperil#
+Ewald Grosse-Wilde#
+Dan#
+Joel Finch#
+Kimberly Burgess#
+David Winkler, Germany#
+Multae Kappae#
+Bryan Ky#
+Joshua Bihun#
+Nick Hofbauer#
+CtanSama#
+manywele#
+D-Rock#
+Nick Jewell#
+Derek Fenlon#
+Johnny Go-Time#
+Garrett Pauls#
+Ron ''Gamehorder'' Musial#
+Infernusuck#
+Jonathan ''Wren'' Miller#
+Christian Michael Mata#
+SpecializationIsOverrated#
+Curtis Myers#
+David Muiños#
+Hunter Harris#
+Peter Davis#
+Luke Hey#
+Aaron ''Nakor'' Goselin#
+Matthew Sanders#
+r4m0n#
+Andre Lauria#
+Scott VanVossen#
+MJPIII#
+steebus#
+Alexandre ''Necroperit'' Savary#
+Bryan Bohl#
+Simon Filip#
+Adam Thomas William Cornish#
+Cedric Anderson Jr.#
+Jonathan Robertson#
+Mark Valentine#
+J. Quincy Sperber#
+Raphael (Max) Lisboa#
+Mathew Sim#
+Tim Soret#
+Finandir#
+Josh Hall-Bachner#
+Radomir Dopieralski#
+Miles Dale Fitzpatrick#
+ORTEGA Guillaume#
+Laurent Férulla#
+Brandon Cash#
+Tansu Colakoglu#
+Giacomo Russo#
+Marticus#
+Grzesiek Krysiak#
+Martti Nurmikari#
+Ross Oakley#
+Brendon Joannides#
+Lord Gerulas#
+Nicolas Guillaumin#
+Richard Schmidbauer#
+Bertin ''Skywilly'' William#
+Krzysiek ''tsuma534'' Domanski#
+Bertrand Lemmers#
+Retris Veikon Nena#
+Filipe Meneses#
+Kyle Sperry#
+Cresta#
+Sean Pelkey#
+Jérémy ''somonflex'' Béliez#
+Eric Churches#
+sebnec#
+Victor Maldonado#
+Jaz Anderson#
+Aleksi Postari (@Kulttuuri)#
+ropable#
+Tom Weeland#
+Nicolas Wartelle-Mathieu#
+Ghislain Thivierge#
+Christopher House#
+Mark Yohalem (Wormwood Studios)#
+Michael J. Stordeur#
+Terry Adams#
+Rompcat#
+Xish#
+Pixel Trip Studios#
+Alai#
+hayan#
+melancthon#
+iosoftware#
+Damien Guiserix#
+Adam Dork#
+Ricardo Zanini#
+juampe.com#
+Dylan Tonge Jones#
+Antti Takalahti#
+Trym Bremnes#
+headwinds studio#
+Jorge ''Presikito'' Rivera#
+Chase Jones#
+Marco Götze#
+MrRomain#
+Charlie ''BigChar'' Creech#
+TDH#
+PhasmidWorks#
+Ed Britton#
+Alexandre Portelli#
+Alex @utingme Ting#
+MrM#
+Ivan Marinov#
+firesock#
+Jan Blatchford#
+Juanito Arturo#
+Ferdinand Coster#
+Drucifer Watsonia#
+Paul Ragan#
+Matt Williams#
+Maurog#
+Dominic O'Keeffe#
+Flemming Dupont#
+Jesse Henning#
+Matt Kretsch#
+João Filipe Belbut Palma Gaspar#
+Ivo Hein#
+Gabriel Morgan#
+BlackGauntlet#
+Mike Cherun#
+Ian Corcoran#
+Jermzlar#
+Heikki Tyni#
+Edgar Salgado#
+Celhz#
+barry markwick#
+kishimoto.com.br#
+Marc van Teerns#
+Jon Wetterberg#
+Eric Grossman#
+Faithless#
+Matthias Ehinger#
+Paul McGunnigle#
+Juha Hokkanen#
+R. Gelling#
+Wolfgang Berger#
+Michael 'Bob' Cussell#
+Nicholas Crunden#
+Alan Saikale#
+Cenk Akyurek#
+Richard Jones#
+Craig Littler#
+Yassum#
+Mikey Skilling#
+Alex Flynn#
+BuLLeTTT#
+Jake van Heerden#
+midian454#
+Michael Bristow#
+Neil Gray#
+saka#
+Graeme Norval#
+farfabet#
+Granite#
+Booshambles#
+Weirdstone#
+Joe Karame#
+Colin Harding#
+Wet Jimmy#
+Benjamin Fischer#
+www.Gamecupid.com#
+Taz#
+Richard Perry#
+Ragnarok Aeon#
+Psiman#
+Jeffery Lawler#
+Marr#
+I'd like to stay incognito.#
+Muddy#
+Javier Solá#
+A.Alroy#
+Ewan Lomax#
+Peter Schnare#
+gnuwinni#
+Aymeric P.#
+Sven-Erik#
+Erik Singer#
+Onesite#
+James Boocock#
+Magnus Pogodsky#
+Santiago Ontañón#
+Usul#
+Derek Wood#
+S. Brockman Boren#
+AbeFM#
+Benjamin Mialot#
+Joey ''JKaedo'' Lane#
+John A Connor#
+Blue Dinosaur Electronics#
+Tonsic#
+Garth BeMiller#
+Harris Ibrahim Huzaifa Mian#
+Randy Pollestad#
+Phil Bordelon#
+Jan3Sobieski#
+guyblade#
+Jose Reyes#
+Chris Marsden#
+Simon Van Daele#
+Nicholas Beales#
+@sergiojota#
+Agustin (Augie) Vargas#
+Mark Knewstubb#
+Sera Crespo#
+Jordi Escobar#
+Caharttkid#
+BenJamin#
+Fenris#
+unaitxu#
+Clovis L. Dye, Jr.#
+Dan Crowley#
+Brandon Vessey#
+Seto Konowa#
+Johnathan Lyon#
+Phil Gross#
+Alex Koszarycz#
+Craig Regnier#
+Chris Lee Wootton#
+Joel Richter#
+Alejandro Lopez#
+Michael Warkentin#
+Garry Klooesterman#
+Nick Sonneveld#
+ender4#
+Michael Krzak#
+minman#
+Tisza Gergő#
+Smoot#
+Kyle Gest#
+Yogfei#
+Carlos Muñoz#
+Gary Henderson#
+Kurt Underhay#
+Tors Henrik Johansson#
+Søren (Sorlia) Lundquist#
+David Weaver#
+Toro#
+Steve Wendt#
+TheAtomicCrusher#
+Russell Purdy#
+Ivan Latorre Negrell#
+Mark Young#
+Michael Monreal#
+Phil Elliott#
+Antonis the beast#
+James Chant#
+Felipe Marchione#
+Tim McDivitt#
+Martin Kroslak#
+Silverstreak#
+KungFuJesus#
+Alexander Kostiuck#
+Sean Van Gorder#
+Hobbes#
+Alex#
+Andrew Passafiume#
+Rubén Moreno Montoliu#
+MaxHouYeah#
+Jayson Holovacs#
+Blagvarg#
+Jessica Carter#
+Avery L Heart#
+Daniel J. Paterson#
+Hwën#
+Nicolas Oberlé#
+Michael P. Hogan#
+Thorsten Kaufmann#
+Ryuho#
+Valentin ''FrozenTux'' Klein#
+Kain G. D. Lacroix#
+Caligari#
+William Eiten#
+Kragor#
+Fabio Bombonato#
+Josh Marchant#
+Nicholas Baldwin#
+Estephan Sarcinelli Borlini#
+Glenn McMath#
+James Bergin#
+Steve Erickson#
+Jeremy Taylor#
+Pau#
+Q.T.Quazar#
+Emlyn Megert#
+Rizhall#
+Jimmy ''Spankin's'' Lynch#
+Steven Moy#
+D#
+Suddy bobo#
+Michael Papadopoulos#
+Thomas Barcelos#
+Henrik Klang#
+Sir_Fred#
+Pham Nuwen#
+mmustikka#
+Rafa Laguna ''@RafaLagoon''#
+Budd Dwyer#
+Tiago C Braga#
+David Richier#
+Brad Hart#
+Nicholas Elliott#
+Dursul#
+Jeramy Couts#
+Paul VH#
+Alistair Brooks#
+Joris Laxiton Leemans#
+Ricardo Gomez Y De Buck [suspiria]#
+Cole Vendsel#
+Leszek zak#
+Andrew G. Ryan#
+Clenfle#
+Rafael A. Mejia#
+Kas Witana#
+Carsten Pohl#
+Jonathan Perry#
+Longwing#
+James S. Beckman#
+Christopher A. Rubio#
+Rohan Smith#
+Lance Colton#
+Aaron R Corff#
+Gleb Meshcheryakov#
+Qwarky#
+Christian ''Pesti'' S.#
+setenfot#
+Benoit MORILLE#
+Adam 'Dysnak' Mottram#
+Ben Quantock#
+Dmytro Tsymbalistyi#
+Kevin Vance#
+rdtheta#
+Miika K. Ahonen#
+Flex Boardshorts#
+Kunihiko Ozaki#
+Wesley Barta#
+Aleksandr Anikin#
+M@ Bass#
+Lynda Miller#
+Philipp ''Razor_Blade'' Beham#
+DarthFaber#
+Samuel Nunes#
+Daniel Rozenberg#
+Isaiah Tanenbaum#
+JDTX88#
+Ilya Wazuhiru#
+Steve Acheson#
+Soviet#
+Michael Buchheim#
+Cr30s#
+Jocky686#
+Stuart Haggard#
+Benoit Tousignant#
+Eric Swain#
+David Power#
+Ksicek#
+Brii#
+n/a#
+Miles Matton#
+Jandê Saavedra Farias \o/#
+Dustin Morgan#
+Paul Wotüb#
+UlukayL#
+Vincze Tamás (Wyns)#
+Jan Henrik Høiland Meling#
+Christopher Jackson#
+Marcin Ryś#
+Waciach#
+Gravelfoot#
+Julien Gormotte#
+Grzegorz Ocetek#
+Ben Kohler#
+Lasse Repo#
+Edward J Chin#
+Steven Anthony P Brown#
+Stanislav Bogdanov aka TrSaur#
+Mariusz Juchno#
+Jordi ''AkashiKurogane'' González#
+Andrea Zuliani#
+Christopher Fivash#
+Stonichen#
+Nathan Morse#
+Brian Leveque#
+Alexander Vos#
+BendAR#
+skanx#
+Patrick Mullen#
+Rob Hennessy#
+RagerX#
+Jhonny Sjöstrand aka. gamern_86#
+Emre Çakmakçı#
+Andrusha Korzhuev#
+Eliott Bourlon#
+Brooks I.#
+Nathan H. Taylor#
+Rune Andreas Grimstad#
+Farooq Chaudhry#
+Jeremiah 'Nick' Nolte#
+Tony Heugh#
+Ben 'realfunfuneral' Griffin#
+Chris Suffern#
+Baptiste Bone#
+Aaron Lavacave#
+Michał ''Piła'' Pilecki#
+alsotop#
+Yoshikuni Takebe Heras#
+Andrew James Princep#
+Simonetta Terra#
+Leron Culbreath#
+David Valéri#
+Andrew Vandeyar#
+Mike Canavan#
+Nadav Gerber#
+Leon Moor#
+Andrew Walker#
+Big English#
+Shamax#
+Adam#
+''AlexTHVK'' Ayala#
+Rockford#
+cotemaxime#
+Sean Liu#
+Nik Lipor#
+Simon Cornejo Martin#
+Vladimir Matveev#
+Steven S#
+&lt;=H3R0=1N=P4SS1NG=]==©#
+Tarkis#
+Nazar#
+Godewijn Perizonius#
+Bryan#
+Chris Bushman#
+Phillip Thomas#
+Steve Reddekopp#
+Roger Yates#
+Burricho#
+Skuller Family#
+Zagrod#
+Dimo Ar'Kacho#
+b1uedeath#
+Alexi Chryssanthou#
+Greg Leask#
+Joey#
+Zacitus#
+Ignat 'Iga' Bykov#
+Tarean Jones#
+Sam Beattie#
+XenoPsycke#
+Andy Lunn#
+Vladimir Polozhevets#
+Kassidy Helfant#
+Vesselin Jilov#
+Gus Miranda#
+Yaroslav Kravtsov#
+Stephen Brady#
+Dereknor#
+Wrath of Khan#
+Justin Palmer#
+Yacov Eyal#
+Nick Kennard#
+godprobe#
+Pat#
+Phillip ''symbol24'' Conte#
+Matevz Malcic#
+Hans Rooden#
+Christian 'ehrgeiz' Schmitz#
+Christopher ''DarkWolfNine'' Muzatko#
+Tiago FV Epifanio#
+Kevin Allison#
+David Vallner#
+Arild (Foamed) Iversen#
+deftonite#
+Arseny Kuznetsov#
+Omar Lopez Hernandez/El Rozty#
+Eden Caldas#
+Carl Jaede#
+Rorschach#
+Lei Adeline#
+Luis ''SuperFly TNT'' Espinoza#
+Robert Steinbach#
+Gergely H#
+Vidok#
+Owen 'ThePandarine' Sa#
+Paul Demeulenaere#
+Tomáš Bouček#
+oto57#
+Robert Leonidas Ely#
+Erwin 'Shades' Kiekens#
+Peter Dorey#
+Roman Pauer#
+Martin BREINER#
+Christos Dionyssopoulos#
+www.Player2PressStart.Com#
+Manuel CrownedAkuma Colombini#
+Aaron Costello#
+Albert#
+Marc Simpson#
+Bob Goatse#
+Pedro Sousa#
+Simpson Ou#
+Andrew Funk#
+Ricardo Amores#
+Insaneydo#
+André Braun#
+Ash.G.L#
+IrishPub#
+Happy 30th Leo Fricker!#
+Jason Sherwood#
+Giacomo Bergamo#
+McThorn#
+Gilles WITTEZAELE#
+Fran Blanco#
+Akures#
+n1313#
+Hammurabi#
+Thomas Zilling#
+ERNIE PAN Z#
+Outtay#
+Jerry Walter#
+Erasmo#
+Dalodovici#
+Kevin Melin#
+Justin Carpenter#
+Daniel Earl#
+Loniek#
+Sergio Cornaga#
+Ryan Hull#
+Spirtikus#
+Hipopotam#
+Autocyclist#
+Max Juchheim#
+Ben Spencer#
+Paul Rumbellow#
+Damien Cirade#
+KozmoNaut#
+Valentin Golobokin#
+Daniel ''SupSuper'' Albano#
+Owen Ellis#
+JBark#
+Jacob Trewe#
+Agustin 'HarZens' Saldias#
+Nick Hartley#
+Bieeanda#
+Jess Renteria#
+Euan Bingham#
+Hilton Devitt#
+I don't want my name to show in the credits#
+Adam ''Tekk'' Crane#
+James#
+Elere Reva#
+Nicholas Taylor#
+ElectricMessiah#
+Tyler Wright#
+Tim Adam#
+Copycat Zero#
+Nathan Chick#
+yousef moneim#
+Artemas Richardson#
+Chris McLernon#
+Brian Hon#
+Brian M Bentley#
+Michael Leung#
+Kaye C. Scott#
+Michael Chen#
+JD &amp; Xaos#
+Eighth Nipple#
+Derek Lynch#
+Nick Lentsch#
+A R Collins#
+Ben Titford#
+Derrick Pereira#
+Joe Calcutta#
+Matthew Bongers#
+John Symonds#
+kinkouin#
+Jonathan Johnson#
+[lvl 0] Pem (Tobias Miller)#
+Steven Proctor#
+Jabberwok#
+Wes Boddie#
+Flo Mihola#
+innocentbird#
+Juan Pablo Escribano Santana#
+Maciej Sankowski#
+Maarten Sander#
+Salvatore Pfennich#
+Mark ''disastrophe'' Turner#
+Thomas Giles#
+Stephen 'G' Evans#
+AGreyFoxx#
+Genc Rashiti#
+Juuso Piipponen#
+António Casqueiro#
+Keeperus#
+Oscar ''Ask'' Wiberg#
+Babak Baniasad aka babulibaba#
+Samantha Balyeat#
+Pearce Shea#
+Alejandrillo#
+Nevill#
+Petr ''Lami'' Chyba#
+Yakusoku#
+Peter Savranskiy#
+Dániel Kovács#
+Lonnie Comics#
+Billy Davis#
+Nathan Gregory Sanzone-McDowell#
+Jason Templeton#
+archaon_archi#
+hidoi777#
+Jochen Leopold#
+Eduardo Pereira#
+Tommy Martineau#
+Robert Wockner#
+Steve Kiehl#
+Corey Robinson#
+Tapio#
+Kevin Clark#
+effervescentia#
+Matt Kennedy#
+Kerthal#
+Juho Yli-Hemmo#
+Sopatros#
+nickolsen#
+Miguel Méndez \ Guarrior#
+Dan Stagg#
+Kimmiwimmy#
+Mark Whiting#
+madeofwords#
+Alan Wong#
+Adrian Stutz#
+naxfen#
+John Lindell#
+Ark-kun (Alexey Volkov)#
+Pablo ''Hersho'' Domínguez#
+David Villa#
+Justin ''Hoops'' McElroy#
+Gabriel Marques Dalla Costa#
+Rohit Maggon#
+Christopher Mangum#
+Rev. Andrew Holt#
+Chris ''Sandman'' Gutierrez#
+Ben Ku#
+Fringale#
+Sarah Cheng#
+Benjamin Cheek#
+Garuda Illo#
+Rich Fleider#
+Rhys D#
+Mike Mudgett#
+Mike Farough#
+Rob McMillan#
+Stephen Kitt#
+Jasmine McGovern#
+don pirucho#
+Will B.#
+Daniel C. Stillwaggon#
+Andrew J. Cook#
+The Colourful Jester#
+Ferret#
+Grandy Peace#
+Pat Gavlin#
+Broofus#
+pwr+vol#
+Jesse Brack#
+Roland Austinat#
+ravard#
+Matt 'Goose'  Hughson#
+P.F. Bruns#
+Jay V. Schindler#
+Jeremy Douglass#
+randybingo#
+Michael T. Ilano#
+Agnoth#
+Philomelle#
+MCG#
+Max Blair#
+The Dan#
+Magiske#
+Konstantin Kochkin#
+Noam Chomp-sky#
+Kevin ''Sherlock'' Anderson#
+iippo#
+Silvio Herrera Gea#
+Luke ''The king'' Jarvis#
+Matthias Metzler#
+Oijadt#
+Heini80#
+Sergey Potupchik#
+Salmon Evans#
+Per Klitgaard#
+La Personnalizaçaoooo#
+Metylene#
+Jan ''Lim-Dul'' Milewski#
+David Ungar#
+Marco Tulio Todeschini Coelho#
+Sam Murdock#
+KnutG#
+Alan Rueda (Nexus_General)#
+Paul Yula#
+Nick Wageler#
+Roman Stejskal#
+Guy Rozen#
+Aymar ''master assassin'' AZAIZIA#
+RaHaN#
+Rob Jaspersohn#
+DamballaAidaWedo#
+rocky1138#
+B. R. Kimball#
+Edua Kickass#
+Brian Taylor#
+Gary Ryan Coughlin#
+Kris Kenney#
+David Hutchinson aka ''Geckoguy''#
+Dustin Headen#
+Junaid Hussain#
+Jeff Marsar#
+Wishbone#
+Gianluca Ravioli#
+patrick awesome#
+Sebastian Schawohl#
+Gustavo Foletto#
+Pedter#
+Stijn van Schooten#
+Aeos Magnus#
+Brian Weiss#
+Dan DeStefano#
+Jan Schulze#
+James Powers#
+Yankton Robins#
+Kittipan Honglumphong#
+Neovariance Games#
+Sabino#
+Rob Crowther#
+Gabriel Accioly Brelaz de Castro#
+Noah W and Madison T Q Jones#
+Alexander Taylor#
+Daniel Taylor#
+Ben Lin#
+Jason ''Leonidas'' Dasher#
+Daniel Schiener#
+LoriLee Davis#
+Riccardo ''Hammer'' Nauti#
+Joshua ''DoktorVivi'' Mann#
+Krzysztof Modras#
+Andrew Harvey#
+3KOF®#
+legion02#
+Telmo Mendes Leal#
+Philipp Landmann#
+Gavan Woolery#
+Dean Bottino#
+Denis Pai#
+Patrick#
+Aaron Campion#
+Christopher Young#
+Mikko Lehto#
+Brett Hrin#
+Nicolas Torres#
+Fernando Scherrer#
+Joel Chahal#
+Kenny Sours#
+Fernando Torres#
+Mauro StoneHeart#
+Lifeless Loser#
+W-kuraido#
+Brian Dysart#
+Patrik Kartos#
+Cyril FAUCHON#
+Artur Orzechowski#
+Christian Böpple#
+Jakub Bauer#
+Jakub Bauer#
+Patrik Kartos#
+Ferdinando Lenzi#
+Baptiste Syllebranque#
+J.M Kiebert#
+Dylan Manetstotter#
+Cyril FAUCHON#
+ANGELO LUCIANO#
+Christian Thomsen#
+Inderjit Sangra#
+Gasper Jamer#
+anlcan kaykçi#
+Roy Renteria#
+Dario Polak#
+Christian Troussicot#
+arksdiusz musialik#
+Danii's and Joseph's Service#
+mustafa can özen#
+Jeroen Hartenhof#
+Philipp Beikirch#
+Quentin Masson#
+Yann Auer#
+Babayaro Serverlar#
+Allan Wagner#
+Daniel Jones#
+Kyle Evans#
+Alexander Schreiber#
+Wong Chee Sau#
+jasper de roo#
+Grégory Rinfret#
+Joshua Krzymek#
+Andrew Woods#
+Obinna Okeke#
+Julio López Gil#
+Burkhard Wick#
+Wu Di#
+Michael Woegerbauer#
+Petri Tuohimäki#
+Teppo Toivonen#
+Pedro de Medeiros#
+Laura Reilly#
+Ignaz Forster#
+Daniel Ivanic#
+Neil Carroll#
+Martin Crivello#
+Rhiannan Meilleur#
+Martin Coors#
+Kay Elspas#
+Karim Gouyette#
+marco pisanu#
+Tyas Bergen#
+Marco Pappacena#
+"
+		   comment="bez zmian"/>
+   <string key="credits_backers" value="Kickstarter Backers" comment="Programowanie"/>
+   <string key="credits_blaze" value="Blaise Sanecki" comment="Efekty Dźwiękowe"/>
+   <string key="credits_directedby" value="Written and Directed by" comment="SoundSnap"/>
+   <string key="credits_music" value="Music"
+           comment="DZIĘKUJEMY WAM WSZYSTKIM! Bez was gra nigdy nie zostałaby ukończona!"/>
+   <string key="credits_panu" value="Panu Talus"
+           comment="Dziękujemy też TOBIE za granie w naszą grę!"/>
+   <string key="credits_paul" value="Pawel Matysik" comment="KONIEC"/>
+   <string key="credits_paulblaze" value="Pawel Matysik#Blaise Sanecki" comment=""/>
+   <string key="credits_programming" value="Code" comment=""/>
+   <string key="credits_sfx" value="Sound Effects" comment=""/>
+   <string key="credits_soundsnap" value="SoundSnap" comment=""/>
+   <string key="credits_thankyou"
+           value="THANK YOU ALL!!! It wouldn't be possible to create the game without your help!"
+           comment=""/>
+   <string key="credits_thankyou2" value="And thank YOU for playing our game!" comment=""/>
+   <string key="credits_theend" value="THE END" comment=""/>
+   <string key="credits_localisation" value="Language localisation"
+           comment="Napisy końcowe"/>
+   <string key="credits_localisation2" value="
+Kajetan Dziebaj (Deutsch)#
+Joanna Sapeta (Français)#
+Zaneta Kasperczyk (Español)#
+Alexy Biyvovk (Русский)#
+Mirko Carta (Italiano)#
+Norbert Jakub Kowara (English)#
+" 
+			comment="bez zmian"/>
+</strings>
