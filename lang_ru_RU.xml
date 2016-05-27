@@ -3,7 +3,7 @@
   SYSTEM "theway.dtd">
 <strings>
    <string key="c_demo_1" 
-           value="A way leading through an alien planet"
+           value="Путь, ведущий сквозь чужую планету"
            comment="A way leading through an alien planet"/>
    <string key="c_demo_2" 
            value="Путь, полный опасностей"
