@@ -156,7 +156,7 @@
            value="Язык"
            comment="Language"/>
    <string key="g_Laser" 
-           value="ЛАзерный пистолет"
+           value="Лазерный пистолет"
            comment="Laser Pistol"/>
    <string key="g_load" 
            value="Загрузка..."
@@ -168,10 +168,10 @@
            value="Музыка"
            comment="Music"/>
    <string key="g_NewEntry" 
-           value="NEW:"
+           value="НОВОЕ:"
            comment="NEW:"/>
    <string key="g_note" 
-           value="Note"
+           value="Запись"
            comment="Note"/>
    <string key="g_off" 
            value="Выкл"
@@ -183,8 +183,8 @@
            value="Вкл"
            comment="On"/>
    <string key="g_onkill_1" 
-           value="Phew..."
-           comment="Ух..."/>
+           value="Ух..."
+           comment="Phew..."/>
    <string key="g_onkill_2" 
            value="Тебе меня не остановить!"
            comment="You won't stop me!"/>
@@ -219,7 +219,7 @@
            value="Джойстик"
            comment="Gamepad"/>
    <string key="g_panel" 
-           value="Panel"
+           value="Панель"
            comment="Panel"/>
    <string key="g_Pause" 
            value="Пауза"
@@ -282,8 +282,8 @@
            value="Тинкан"
            comment="Tincan"/>
    <string key="g_tincan_help" 
-           value="Call Tincan"
-           comment="Позвать Тинкана"/>
+           value="Позвать Тинкана"
+           comment="Call Tincan"/>
    <string key="g_tincan_danger" 
            value="Тинкан испугался..."
            comment="Tincan got scared off..."/>
@@ -468,7 +468,7 @@
            value="Сообщение? Но тут никого не должно быть..."
            comment="A transmission? No one should even be here..."/>
    <string key="c_bounty_2" 
-           value="Просканируем окресности..."
+           value="Просканируем окрестности..."
            comment="Let's scan the area..."/>
    <string key="c_bounty_3" 
            value="...Так, так, так. Майор Том."
@@ -615,7 +615,7 @@
            value="Карта к Храму Жизни"
            comment="Map to the Temple of Life"/>
    <string key="3_draw" 
-           value="Её портрат..."
+           value="Её портрет..."
            comment="Her portrait..."/>
    <string key="3_ete" 
            value="Вечная жизнь"
@@ -699,8 +699,8 @@
            value="Батарея"
            comment="Battery"/>
    <string key="4_buttonActivated" 
-           value="It's turned on now"
-           comment="Включено"/>
+           value="Включено"
+           comment="It's turned on now"/>
    <string key="4_buttonInactive" 
            value="Неактивна..."
            comment="It's inactive"/>
@@ -1137,7 +1137,7 @@
            value="ОТКРЫТО#"
            comment="UNLOCKED#"/>
    <string key="4_ventConsole_title" 
-           value="Обсуживание"
+           value="Обслуживание"
            comment="Maintenance"/>
    <string key="4_ventLocked" 
            value="Закрыто"
@@ -1227,7 +1227,7 @@
            value="Символ Вечности"
            comment="Eternal Life Symbol"/>
    <string key="6_hidden" 
-           value="Неоткрытый проход?"
+           value="Скрытый проход?"
            comment="Undiscovered passage?"/>
    <string key="6_hole" 
            value="Треугольное углубление"
@@ -1278,7 +1278,7 @@
            value="ОТЧЕТ 1/3#Том перевел часть инопланетных надписей. Похоже на какой-то религиозный текст, поскольку часто упоминается 'вечная жизнь'. Том работает так усердно, как никогда раньше - нам не стоило беспокоиться о том, что его брак помешает миссии!"
            comment="PROGRESS 1/3#Tom translated some of the alien markings. It seems to be some kind of religious writing as it mentions 'eternal life' quite often. Tom is hard at work as never before - we shouldn't have been concerned about his marriage colliding with our mission after all!"/>
    <string key="6_hPaperWork_3"
-           value="ДНК 2/2#Дальнейшие исследованния ДНК указывают на то, что местная флора и файна была генетически модифицирована под какие-то особые нужды. Другие находки не свидетельствуют об инопланетной расе, способной на такое. Совпадение?"
+           value="ДНК 2/2#Дальнейшие исследования ДНК указывают на то, что местная флора и фауна была генетически модифицирована под какие-то особые нужды. Другие находки не свидетельствуют об инопланетной расе, способной на такое. Совпадение?"
            comment="DNA 2/2#Further DNA studies suggest that the local flora and fauna were genetically modified to meet some specialized needs. Remaining findings did not suggest a race with technology capable of such genetic manipulation. Coincidence?"/>
    <string key="6_missing" 
            value="Чего-то тут не хватает..."
@@ -1317,7 +1317,7 @@
            value="Природа иногда ДЕЙСТВИТЕЛЬНО страшна!"
            comment="Nature is REALLY scary!"/>
    <string key="7_artefact_1" 
-           value="Этот артифакт..."
+           value="Этот артефакт..."
            comment="This artefact..."/>
    <string key="7_artefact_2" 
            value="Могу поспорить, он подходит к пьедесталу снаружи"
@@ -1350,8 +1350,8 @@
            value="Храм Щита Разума"
            comment="Mind barrier temple"/>
    <string key="8_force_1a" 
-           value="Mind force temple"
-           comment="Храм Силы Разума"/>
+           value="Храм Силы Разума"
+           comment="Mind force temple"/>
    <string key="8_travel_1a" 
            value="Храм Путешествия Разума"
            comment="Mind travel temple"/>
@@ -1386,7 +1386,7 @@
            value="Сможете ??? проблему?"
            comment="Can you ??? source?"/>
    <string key="8_force_2b" 
-           value="Сможете ??? из оскольков?"
+           value="Сможете ??? из осколков?"
            comment="Can you ??? answers?"/>
    <string key="8_travel_2b" 
            value="Сможете ??? время?"
@@ -1455,7 +1455,7 @@
            value="Привет, Тинкан! Хороший мальчик!"
            comment="Hi Tincan! Good Boy!"/>
    <string key="8_bridge" 
-           value="Приятно, что они построиля для меня мост..."
+           value="Приятно, что они построили для меня мост..."
            comment="It's nice that they made this bridge for me"/>
    <string key="8_intro_1" 
            value="Этого места не было на сканерах корабля"
@@ -1473,7 +1473,7 @@
            value="Черт!"
            comment="Oh crap!"/>
    <string key="8b_nopump" 
-           value="ЗВучит как-то неправильно..."
+           value="Звучит как-то неправильно..."
            comment="It doesn't sound right..."/>
    <string key="8b_nothing" 
            value="Уже активно"
@@ -1494,8 +1494,8 @@
            value="Что за...?"
            comment="What the...?"/>
    <string key="8b_help" 
-           value="Does it try to help me?"
-           comment="Оно пытается мне помочь?"/>
+           value="Оно пытается мне помочь?"
+           comment="Does it try to help me?"/>
    <string key="8b_sphere" 
            value="Какая-то сфера?"
            comment="Some kind of sphere?"/>
@@ -1638,7 +1638,7 @@
            value="Направите щит неверно#и умрете с треском"
            comment="If you direct the barrier at the#incorrect spot, you will perish"/>
    <string key="12_wall_3" 
-           value="Бездумно попрете вмеред#и с треском умрете"
+           value="Бездумно попрете вперед#и с треском умрете"
            comment="If you push forward#recklessly, you will perish"/>
    <string key="12_icon_1" 
            value="I. Бездна"
@@ -1797,7 +1797,7 @@
            value="Эх...Больше езды."
            comment="*Sigh*...More travel."/>
    <string key="13b_intro_1" 
-           value="НАконец... Спустя столько лет..."
+           value="Наконец... Спустя столько лет..."
            comment="At last... After all those years..."/>
    <string key="13b_intro_2" 
            value="Я уверен, это то самое место!"
@@ -1842,7 +1842,7 @@
            value="Рыдающий туземец"
            comment="Crying local"/>
    <string key="14_sad_2" 
-           value="Всхипывающий туземец"
+           value="Всхлипывающий туземец"
            comment="Sobbing local"/>
    <string key="14_door" 
            value="Инопланетная дверь"
@@ -1898,8 +1898,8 @@
    <string key="14b_pumpConsole_c22" 
            value="#Фильтр 2: "
            comment="#Filter 2: "/>
-   <string key="#Фильтр" 
-           value="#Filter 3: "
+   <string key="14b_pumpConsole_c23" 
+           value="#Фильтр 3: "
            comment="#Filter 3: "/>
    <string key="14b_pumpConsole_c2a" 
            value="ВЫКЛ"
@@ -2046,7 +2046,7 @@
            value="Древние могилы?"
            comment="Ancient graves?"/>
    <string key="16_cubeConsole_c1"
-           value="Машина Абсолютно Бредового Исполнения Команд##Command list:#"
+           value="Машина Абсолютно Бредового Исполнения Команд##Список команд:#"
            comment="Move Action Block and Execute Command##Command list:#"/>
    <string key="16_cubeConsole_d" 
            value="Вниз"
@@ -2262,7 +2262,7 @@
            value="Я НЕ ВЫПУЩУ ИХ &lt;-НАРУЖУ-&gt;"
            comment="I WONT LET THEM &lt;-OUT-&gt;"/>
    <string key="19_red4" 
-           value="\\МЕРЫ ПРИСЕЧЕНИЯ АВТОРИЗОВАНЫ\\"
+           value="\\МЕРЫ ПРЕСЕЧЕНИЯ АВТОРИЗОВАНЫ\\"
            comment="\\MEASURES AUTHORIZED\\"/>
    <string key="19_red5" 
            value="Что?"
