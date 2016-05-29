@@ -1110,7 +1110,7 @@
            value="РАЗРЕШЕНО"
            comment="GRANTED"/>
    <string key="4_towerConsole_title" 
-           value="Командно-диспетчерский пункт"
+           value="Диспетчерский пункт"
            comment="Traffic control"/>
    <string key="4_vent" 
            value="Вентиляция"
@@ -1161,10 +1161,10 @@
            value="Добавить пользователя"
            comment="Add user"/>
    <string key="4_weaponConsole_o2" 
-           value="Ввел 'password'"
+           value="Ввести 'password'"
            comment="Enter 'password'"/>
    <string key="4_weaponConsole_o2a" 
-           value="Ввел 'XKCD123'"
+           value="Ввести 'XKCD123'"
            comment="Enter 'XKCD123'"/>
    <string key="4_weaponConsole_title" 
            value="Доступы"
