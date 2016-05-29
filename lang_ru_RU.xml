@@ -1299,7 +1299,7 @@
            value="??? храм внизу ???#направит ??? ???. Это#первый шаг ??? найди#??? ??? вечную жизнь.'"
            comment="??? temple below ???#guide ??? ???. It is#the first step ??? find#??? ??? eternal life.'"/>
    <string key="6_v_knewit" 
-           value="Все эже это врата! Я так и знал!"
+           value="Все же это врата! Я так и знал!"
            comment="So it IS a gateway! I knew it!"/>
    <string key="6_v_open" 
            value="Подходит!"
@@ -1308,7 +1308,7 @@
            value="Лазерная технология..."
            comment="Laser technology..."/>
    <string key="7_laser_2" 
-           value="Опасная..."
+           value="Опасно..."
            comment="Dangerous too..."/>
    <string key="7_cold" 
            value="Брр... Холодно!"
