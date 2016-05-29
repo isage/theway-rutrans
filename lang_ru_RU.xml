@@ -2277,7 +2277,7 @@
            value="Солнце?..."
            comment="Sun?..."/>
    <string key="19_wake1" 
-           value="Готов снова копать..."
+           value="Пора снова копать..."
            comment="Ready to dig again..."/>
    <string key="19_wake2" 
            value="Может сегодня..."
@@ -2292,7 +2292,7 @@
            value="Присоединиться к инопланетянам"
            comment="Join the aliens"/>
    <string key="19b_exit_1" 
-           value="Наконец...Свободен..."
+           value="Наконец...Свободны..."
            comment="Finally...Free..."/>
    <string key="19b_exit_10" 
            value="...но мы настоятельно рекомендуем остаться с нами, как друг"
